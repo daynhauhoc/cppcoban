@@ -1,0 +1,39 @@
+Trong bài học này, chúng ta bắt đầu với những khái niệm đầu tiên về ngôn ngữ lập trình, và một số đặc trưng trong ngôn ngữ lập trình C++.
+
+/*----------------------------------------------------------------------------------------------------------------------*/
+Ngày nay, những máy tính hiện đại có tốc độ xử lý nhanh đáng kinh ngạc, nhưng máy tính vốn chỉ có thể hiểu được một cách giới hạn 
+các câu lệnh, chúng ta cần phải nói với máy tính chính xác những gì chúng ta muốn nó làm. Một chương trình máy tính (hay còn 
+được gọi là phần mềm hoặc ứng dụng) là một tập hợp các câu lệnh, chúng nói cho máy tính biết phải làm những gì, và các thiết bị 
+trên máy tính thực thi các câu lệnh được gọi là phần cứng.
+
+- Ngôn ngữ máy:
+Một CPU của máy tính không đủ khả năng để hiểu được ngôn ngữ lập trình C++. Chỉ một tập hợp rất hạn chế các chỉ thị mà máy tính 
+hiển nhiên hiểu được, chúng được gọi là mã máy (ngôn ngữ máy hay tập chỉ thị). Trong khóa học này, chúng ta chỉ quan tâm đến 2 điều.
+  + Một chỉ thị được hợp thành bởi một số các con số ở dạng nhị phân, nó chỉ có thể là 0 hoặc 1. Những con số dạng nhị phân này 
+  thường được gọi là những bit (là đơn vị lưu trữ nhỏ nhất trong máy tính).
+  + Mỗi tập hợp các số nhị phân được dịch bởi CPU thành các chỉ thị bảo máy tính làm một công việc cụ thể. Ví dụ: so sánh 2 số, lưu một
+  giá trị vào một vùng nhớ máy tính. Mỗi CPU có một tập các chỉ thị khác nhau. Lập trình viên là những người tạo ra mã máy, nó rất khó 
+  và tốn thời gian để làm một thứ gì đó.
+
+- Ngôn ngữ lập trình bậc cao:
+Ngôn ngữ lập trình bậc cao được thiết kế để lập trình viên viết chương trình mà không cần bận tâm vào loại chương trình máy tính 
+đang chạy trên nó.
+Ngôn ngữ lập trình bậc cao phải được dịch ngược về mã máy để CPU có thể hiểu được chúng. Và thứ giúp lập trình viên thực hiện quá trình 
+biên dịch mã máy này gọi là Compiler (trình biên dịch).
+Đây là mô tả đơn giản về quá trình biên dịch:
+http://learncpp.com/images/CppTutorial/Section0/CompiledExecutable.png
+
+Một Interpreter (người thông dịch) là một chương trình chuyển đổi trực tiếp ngôn ngữ lập trình bậc cao về mã máy không thông qua 
+quá trình biên dịch. Sử dụng Interpreter hướng đến sự linh hoạt, nhưng không hiệu quả khi chạy chương trình. Vì quá trình thông dịch 
+diễn ra liên tục khi chương trình đang chạy.
+Đây là mô tả về quá trình thông dịch:
+http://learncpp.com/images/CppTutorial/Section0/Interpreted.png
+
+Thông thường, một chương trình C/C++ cần được biên dịch mới chạy được trên phần cứng máy tính. Một số ngông ngữ lập trình khác 
+có thể sử dụng cả hai phương pháp (thông dịch hoặc biên dịch) để chạy chương trình như Java.
+
+Một số đặc điểm đáng chú ý ở các ngôn ngữ lập trình bậc cao:
+  + Dễ đọc và viết. Ví dụ: a = 10;
+  + Chỉ yêu cầu một số lượng ít các chỉ thị để thực hiện cùng một công việc mà ngôn ngữ lập trình bậc thấp thực hiện. Ví dụ: trong C++
+  bạn có thể thực hiện phép tính a = b * 5 + 2; chỉ trong một dòng lệnh.
+  + Tính tiện dụng. Chương trình được viết bằng ngôn ngữ lập trình bậc cao có thể tương thích với nhiều kiến trúc khác nhau.
