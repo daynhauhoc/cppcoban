@@ -73,4 +73,10 @@ mã nguồn mở. Đó là lý do ứng dụng được viết bởi PHP có chi
  so sánh. Perl được cho là hiệu quả hơn PHP về mặt tốc độ xử lý, sức mạnh ... nhưng bên cạnh đó, PHP dễ học và triển khai hơn giống như 
  HTML.
  
- - Độ tin cậy của ứng dụng: 
+ - Độ tin cậy của ứng dụng: Một số chương trình cần đảm bảo độ tin cậy lên đến 100%, như hệ thống trên máy bay. Sử dụng những chương trình
+  có độ tin cậy thấp có thể dẫn đến hậu quả làm thiệt mạng hành khách trên máy bay. Một ngôn ngữ có khả năng vẫn được sử dụng cho các 
+  hệ thống quan trọng là ADA.
+  
+Trình biên dịch của mỗi ngôn ngữ lập trình cũng tác động đến hiệu suất của nó. Tuy nhiên, điều này không cần thiết để đưa ra quyết định 
+cho việc chọn ngôn ngữ lập trình. Lập trình viên có nhiều kinh nghiệm có thể làm ra một ứng dụng chạy tốt hơn trên một trình biên dịch 
+chậm hơn. 
