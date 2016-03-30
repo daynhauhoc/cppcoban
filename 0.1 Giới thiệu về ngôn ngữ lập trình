@@ -1,14 +1,24 @@
-Trong bài học này, chúng ta bắt đầu với những khái niệm đầu tiên về ngôn ngữ lập trình, và một số đặc trưng trong ngôn ngữ lập trình C++.
+Trong bài học này, chúng ta bắt đầu với những khái niệm đầu tiên về ngôn ngữ lập trình.
+  + Ngôn ngữ lập trình là gì?
+  + Nó được sử dụng với mục đích gì?
+  + Có các loại ngôn ngữ lập trình nào?
 
 /*----------------------------------------------------------------------------------------------------------------------*/
 Ngày nay, những máy tính hiện đại có tốc độ xử lý nhanh đáng kinh ngạc, nhưng máy tính vốn chỉ có thể hiểu được một cách giới hạn 
 các câu lệnh, chúng ta cần phải nói với máy tính chính xác những gì chúng ta muốn nó làm. Một chương trình máy tính (hay còn 
 được gọi là phần mềm hoặc ứng dụng) là một tập hợp các câu lệnh, chúng nói cho máy tính biết phải làm những gì, và các thiết bị 
-trên máy tính thực thi các câu lệnh được gọi là phần cứng.
+trên máy tính thực thi các câu lệnh được gọi là phần cứng. Những tập hợp các câu lệnh được thiết kế để ra lệnh cho máy tính 
+được gọi là Ngôn ngữ lập trình.
+Ngôn ngữ lập trình được chia là 2 loại: 
+  + Ngôn ngữ lập trình bậc thấp.
+  + Ngôn ngữ lập trình bậc cao.
 
-- Ngôn ngữ máy:
+- Ngôn ngữ bậc thấp (Mã máy):
 Một CPU của máy tính không đủ khả năng để hiểu được ngôn ngữ lập trình C++. Chỉ một tập hợp rất hạn chế các chỉ thị mà máy tính 
-hiển nhiên hiểu được, chúng được gọi là mã máy (ngôn ngữ máy hay tập chỉ thị). Trong khóa học này, chúng ta chỉ quan tâm đến 2 điều.
+hiển nhiên hiểu được, chúng được gọi là mã máy (ngôn ngữ máy hay tập chỉ thị). Hay nói cách khác, ngôn ngữ lập trình bậc thấp 
+cung cấp cho máy tính các chỉ thị rõ ràng, không có tính trừu tượng giúp máy tính có thể hiểu được ngay lập tức.
+
+Trong khóa học này, chúng ta chỉ quan tâm đến 2 điều.
   + Một chỉ thị được hợp thành bởi một số các con số ở dạng nhị phân, nó chỉ có thể là 0 hoặc 1. Những con số dạng nhị phân này 
   thường được gọi là những bit (là đơn vị lưu trữ nhỏ nhất trong máy tính).
   + Mỗi tập hợp các số nhị phân được dịch bởi CPU thành các chỉ thị bảo máy tính làm một công việc cụ thể. Ví dụ: so sánh 2 số, lưu một
@@ -17,9 +27,9 @@ hiển nhiên hiểu được, chúng được gọi là mã máy (ngôn ngữ m
 
 - Ngôn ngữ lập trình bậc cao:
 Ngôn ngữ lập trình bậc cao được thiết kế để lập trình viên viết chương trình mà không cần bận tâm vào loại chương trình máy tính 
-đang chạy trên nó.
-Ngôn ngữ lập trình bậc cao phải được dịch ngược về mã máy để CPU có thể hiểu được chúng. Và thứ giúp lập trình viên thực hiện quá trình 
-biên dịch mã máy này gọi là Compiler (trình biên dịch).
+đang chạy trên nó, có thể thấy ngôn ngữ lập trình bậc cao khá gần gũi với ngôn ngữ tự nhiên. Vì thế ngôn ngữ lập trình bậc cao 
+phải được dịch ngược về mã máy để CPU có thể hiểu được chúng. Và thứ giúp lập trình viên thực hiện quá trình biên dịch mã máy này 
+gọi là Compiler (trình biên dịch).
 Đây là mô tả đơn giản về quá trình biên dịch:
 http://learncpp.com/images/CppTutorial/Section0/CompiledExecutable.png
 
