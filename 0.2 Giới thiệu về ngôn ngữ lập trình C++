@@ -5,16 +5,19 @@ Cùng lướt qua những gì các bạn sẽ được học trong chủ đề n
   + C++ là gì?
   + Tóm tắt lịch sử hình thành của ngôn ngữ C++.
   + Một số đặc trưng của ngôn ngữ C++.
+  + Lý do chọn ngôn ngữ C++.
 
 /*----------------------------------------------------------------------------------------------------------------------*/
+Lịch sử hình thành C++:
+
+Trước C++, ngôn ngữ lập trình C được phát triển trong năm 1972 bởi Dennis Ritchie tại phòng thí nghiệm Bell Telephone, C chủ yếu là 
+một ngôn ngữ lập trình hệ thống, một ngôn ngữ để viết ra hệ điều hành. Vào năm 1999, ủy ban ANSI đã phát hành một phiên bản mới của 
+ngôn ngữ lập trình C, gọi là C99.
+C++ được tạo ra bởi Bjarne Stroustrup - một nhà khoa máy tính người Đan Mạch tại phòng thí nghiệm AT&T Bell vào năm 1979, được ISO 
+công nhận vào năm 1998, lần phê chuẩn tiếp theo vào năm 2003 (người ta gọi là C++ 03). Hai lần cập nhật gần đây nhất là C++ 11 và C++ 14
+(được phê chuẩn vào năm 2011 và 2014). Phiên bản C++ 17 đã được công bố, dự đoán sẽ hoàn thành trong năm 2017.
+
 - C++ là một phiên bản mở rộng của ngôn ngữ lập trình C.
-
-- C++ được tạo ra bởi Bjarne Stroustrup - một nhà khoa máy tính người Đan Mạch tại phòng thí nghiệm AT&T Bell vào năm 1979.
-
-- Ban đầu, C++ có tên gọi là "C with class". Một vài năm sau đó (1983), nó được đổi tên thành C++ (C plus plus) 
-vì mọi người bắt đầu nhận ra rằng C++ được cung cấp thêm khái niệm Class (các bạn sẽ được học trong phần lập trình hướng đối tượng với C++).
-
-- C++ có thể chạy trên nhiều nền tảng khác nhau như Windows, Mac OS, một số biến thể của UNIX...
 
 Một số đặc trưng của ngôn ngữ C++:
 - C++ là một ngôn ngữ lập trinh bậc trung. Nó có nghĩa là bạn có thể sử dụng C++ để phát triển những ứng dụng bậc cao, 
@@ -25,5 +28,11 @@ hoàn toàn mới được gọi là lập trình hướng đối tượng, nơi
 như: thừa kế, đa hình, tính đóng gói, tính trừu tượng ... Những khái niệm này khá phức tạp, nên nếu bạn chưa hiểu về chúng, đừng lo lắng,
 chúng ta sẽ lần lượt làm rõ từng khái niệm trong mỗi bài học khác nhau.
 - C++ là một ngôn ngữ lập trình hướng cấu trúc giống ngôn ngữ C, nó có nghĩa là chúng ta có thể tổ chức chương trình 
-trên khái niệm Functions. Nhưng trong ngôn ngữ lập trình C, chúng ta không thể tạo ra một chức năng mới bên trong một chức năng 
-đã có, nhưng chúng ta có thể làm như vậy trong C++. Đó là lý do C++ là một ngôn ngữ lập trình hướng cấu trúc.
+trên khái niệm functions.
+- C++ có thể chạy trên nhiều nền tảng khác nhau như Windows, Mac OS, một số biến thể của UNIX...
+
+/*--------------------------------------------------------------------------------------------------------------*/
+Lý do chọn ngôn ngữ C++:
+
+Đã hơn 30 năm từ khi C++ được ra đời. Nhưng đến nay, vẫn còn nhiều lý do để ngôn ngữ C++ nằm trong top những ngôn ngữ lập trình 
+được sử dụng rộng rãi nhất thế giới. 
