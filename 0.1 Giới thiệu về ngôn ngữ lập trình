@@ -2,6 +2,7 @@ Trong bài học này, chúng ta bắt đầu với những khái niệm đầu 
   + Ngôn ngữ lập trình là gì?
   + Nó được sử dụng với mục đích gì?
   + Có các loại ngôn ngữ lập trình nào?
+  + Làm thế nào để chọn một ngôn ngữ lập trình phù hợp với bản thân?
 
 /*----------------------------------------------------------------------------------------------------------------------*/
 Ngày nay, những máy tính hiện đại có tốc độ xử lý nhanh đáng kinh ngạc, nhưng máy tính vốn chỉ có thể hiểu được một cách giới hạn 
@@ -47,3 +48,29 @@ Một số đặc điểm đáng chú ý ở các ngôn ngữ lập trình bậc
   + Chỉ yêu cầu một số lượng ít các chỉ thị để thực hiện cùng một công việc mà ngôn ngữ lập trình bậc thấp thực hiện. Ví dụ: trong C++
   bạn có thể thực hiện phép tính a = b * 5 + 2; chỉ trong một dòng lệnh.
   + Tính tiện dụng. Chương trình được viết bằng ngôn ngữ lập trình bậc cao có thể tương thích với nhiều kiến trúc khác nhau.
+  
+/*-------------------------------------------------------------------------------------------------------*/
+Hiện nay, có khoảng hơn 500 ngôn ngữ lập trình đã được sử dụng trên thế giới. Đối với những người mới tiếp cận với ngôn ngữ lập trình, 
+hay có dự định theo đuổi con đường lập trình, việc chọn ra một ngôn ngữ lập trình để học có thể là một trở ngại lớn bởi vì bạn có thể 
+không có đầy đủ thông tin cần thiết để đưa ra một lựa chọn tốt. Một khi bạn dành thời gian để suy nghĩ về những gì bạn sẽ học, sẽ làm 
+và phát triển ... bạn có thể bắt đầu suy nghĩ về ngôn ngữ mà bạn sẽ học. 
+Sau đây là một số yếu tổ ảnh hưởng đến việc lựa chọn ngôn ngữ lập trình để học và dùng trong dự án của bạn:
+- Nền tảng được hổ trợ: là một yếu tố quan trọng quyết định ngôn ngữ nào nên được sử dụng ngoại trừ ngôn ngữ lập trình hổ trợ đa 
+nền tảng.
+Ví dụ ứng dụng được phát triển trên nền tảng Microsoft có thể được lập trình bằng một số ngôn ngữ mà Microsoft hổ trợ như C, C++, C#, 
+và một số ngôn ngữ có thể viết được trên Visual studio. Trong khi đó, những ứng dụng liên quan đến Internet, ứng dụng trên điện thoại 
+di động có thể được phát triển bằng ngôn ngữ Java. PHP cũng có thể dùng để phát triển ứng dụng Web...
+
+- Thời gian phát triển ứng dụng: Với những ứng dụng được phát triển nhanh, Visual Basic là lựa chọn phù hợp để tăng tốc độ phát triển.
+Tuy nhiên, khi mà thời gian không bị ràng buộc bởi khách hàng, một số ngôn ngữ lập trình như C, C++ có thể được sử dụng.
+
+- Chi phí phát triển phần mềm: Để phù hợp với ngân sách của người dùng cuối hoặc khách hàng, việc lựa chọn ngôn ngữ lập trình 
+không làm nên sự khác biệt. Những ngôn ngữ lập trình với giấy phép phải được mua có chi phí phát triển phần mềm cao hơn những ngôn ngữ 
+mã nguồn mở. Đó là lý do ứng dụng được viết bởi PHP có chi phí thấp hơn ứng dụng được viết trên ASP .NET framework.
+
+- Tính hiệu quả: Tính hiệu quả của ứng dụng phụ thuộc trên nhiều yếu tố khác nhau (Tốc độ xử lý, khả năng đáp trả, tài nguyên sử dụng...)
+ và việc lựa chọn ngôn ngữ lập trình cũng ảnh hưởng nhiều đến hiệu suất của ứng dụng. Thử đưa ra 2 ngôn ngữ lập trình Perl và PHP để 
+ so sánh. Perl được cho là hiệu quả hơn PHP về mặt tốc độ xử lý, sức mạnh ... nhưng bên cạnh đó, PHP dễ học và triển khai hơn giống như 
+ HTML.
+ 
+ - Độ tin cậy của ứng dụng: 
