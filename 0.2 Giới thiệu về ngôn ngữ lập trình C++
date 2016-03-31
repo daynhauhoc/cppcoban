@@ -51,3 +51,11 @@ ngành công nghiệp phát triển game.
 Tuy rằng bên cạnh C++ còn có những ngôn ngữ lập trình khác như C#, Java, ... có thể làm được những ứng dụng lớn cho máy tính, nhưng 
 đối với các ứng dụng có yêu cầu về mặt tốc độ xử lý, hoặc có tính thương mại cao, người ta vẫn ưu tiên chọn C++.
 
+Về phía học sinh, sinh viên, những người đến với khóa học này với mục đích muốn tìm hiểu 1 ngôn ngữ lập trình cơ bản thì việc học tốt 
+C++ có thể làm nền tảng vững chắc để tiếp cận những ngôn ngữ lập trình khác một cách dễ dàng hơn. Bởi vì C++ có thể được sử dụng theo 
+hướng lập trình hướng cấu trúc như C, cũng có thể sử dụng các khái niệm trong lập trình hướng đối tượng giống những ngôn ngữ mới sau này, 
+nên C++ có thể dùng làm cầu nối giữa nhiều ngôn ngữ khác nhau. Một ví dụ điển hình, khi sử dụng Java trên Android Studio để phát triển 
+ứng dụng trên điện thoại di động, chúng ta có thể tích hợp các thư viện được viết sẵn bằng ngôn ngữ C++ nhằm mục đích tối ưu hóa.
+
+Ở trên đây, mình vừa đưa ra một số công việc cần dùng đến ngôn ngữ lập trình C++. Nếu hướng đi trong lập trình của các bạn có liên quan 
+đến các công việc trên, C++ có thể là một lựa chọn tốt cho bạn. Hẹn gặp lại các bạn trong bài học tiếp theo!
