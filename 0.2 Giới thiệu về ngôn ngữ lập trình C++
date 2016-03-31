@@ -36,3 +36,18 @@ Lý do chọn ngôn ngữ lập trình C++:
 
 Như trong bài trước, mình đã nói về phương pháp để lựa chọn 1 ngôn ngữ lập trình phù hợp cho dự án và bản thân. Mỗi ngôn ngữ lập trình 
 có thể thích hợp cho một số loại ứng dụng. Vậy trước khi bắt đầu học về ngôn ngữ C++, chúng ta cần biết C++ có thể làm được những gì.
+
+Theo Adam Helps - https://www.quora.com/What-can-someone-do-using-C++
+Ngôn ngữ lập trình C++ có thể được dùng để làm những công việc sau: 
+- C++ được thiết kế để viết những hệ thống lớn, thậm chí C++ được dùng để tạo nên hệ điều hành máy tính (Linux, Mac OS X, Windows...).
+- C++ được dùng để tạo nên các game lớn của hãng Blizzard (World of Warcraft, Diablo series, StarCraft series...). Gần như toàn bộ các 
+game bom tấn trên thị trường hiện nay cũng dùng C++ để phát triển. Một số công cụ sử dụng trong việc lập trình game có sử dụng C++ như 
+Unreal engine, Cocos2d-x framework,... Các ông lớn trong ngành công nghiệp game như Valve, CryTek cũng sử dụng C++.
+- Các thể loại game chơi trên Playstation, XBox, ... được tạo ra từ C++. Có thể thấy C++ là ngôn ngữ có truyền thống lâu đời trong 
+ngành công nghiệp phát triển game.
+- Các sản phẩm phần mềm nổi tiếng khác được phát triển bằng C++ như MS Office, Photoshop, Maya / 3ds, Auto CAD...
+- C++ có thể được sử dụng ở phía Web server vì C++ có thể đáp ứng được yêu cầu về tốc độ xử lý, khả năng phản hồi nhanh. 
+
+Tuy rằng bên cạnh C++ còn có những ngôn ngữ lập trình khác như C#, Java, ... có thể làm được những ứng dụng lớn cho máy tính, nhưng 
+đối với các ứng dụng có yêu cầu về mặt tốc độ xử lý, hoặc có tính thương mại cao, người ta vẫn ưu tiên chọn C++.
+
