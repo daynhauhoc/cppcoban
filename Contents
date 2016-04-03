@@ -86,15 +86,16 @@
 /*---------------------------------------------------------------------*/
 // Nâng cao về biến, kiểu dữ liệu
 
-6.0 Kiểu kí tự
-6.1 Biến toàn cục, tại sao không nên sử dụng nhiều biến toàn cục
-6.2 Biến static
-6.3 Ép kiểu
-6.4 Kiểu auto
-6.5 Địa chỉ của biến
-6.6 Luyện tập
-6.7 Sửa bài tập
-6.8 Bài tập trắc nghiệm
+6.0 Sử dụng thư viện stdint.h
+6.1 Kiểu kí tự
+6.2 Biến toàn cục, tại sao không nên sử dụng nhiều biến toàn cục
+6.3 Biến static
+6.4 Ép kiểu
+6.5 Kiểu auto
+6.6 Địa chỉ của biến
+6.7 Luyện tập
+6.8 Sửa bài tập
+6.9 Bài tập trắc nghiệm
 
 /*---------------------------------------------------------------------*/
 // Kiểu dữ liệu mảng
