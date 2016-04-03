@@ -104,5 +104,32 @@
 /*---------------------------------------------------------------------*/
 // Kiểu dữ liệu mảng
 
+7.0 Mảng 1 chiều (Cách khai báo, tổ chức bộ nhớ, truy xuất phần tử...)
+7.1 Các thao tác cơ bản với mảng 1 chiều
+7.2 Luyện tập về mảng 1 chiều
+7.3 Sửa bài tập mảng 1 chiều
 
+7.4 Mảng 2 chiều (Cách khai báo, tổ chức bộ nhớ, truy xuất phần tử...)
+7.5 Các thao tác cơ bản với mảng 2 chiều
+7.6 Luyện tập về mảng 2 chiều
+7.7 Sửa bài tập mảng 2 chiều
+
+7.8 Những vấn đề thường gặp
+7.9 Bài tập trắc nghiệm
+
+/*---------------------------------------------------------------------*/
+// Kiểu chuỗi kí tự
+
+8.0 Mảng kí tự (Cách khai báo và sử dụng)
+8.1 Sử dụng thư viện string.h
+8.2 Bài tập mảng kí tự
+8.3 Sửa bài tập mảng kí tự
+
+8.4 Sử dụng thư viện string
+8.5 Bài tập về string
+8.6 Những vấn đề thường gặp khi thao tác với chuỗi kí tự
+8.7 Bài tập trắc nghiệm
+
+/*---------------------------------------------------------------------*/
+// 
 
