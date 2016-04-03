@@ -29,7 +29,7 @@
 /*---------------------------------------------------------------------*/
 // Cấu trúc rẽ nhánh
 
-2.0 Bool & biểu thức điều kiện
+2.0 Bool & biểu thức điều kiện, biễu diễn dưới dạng sơ đồ khối
 
 2.1 Cấu trúc if (thiếu)
 2.2 Cấu trúc if (đủ)
@@ -44,5 +44,60 @@
 2.10 Bài tập trắc nghiệm
 
 /*---------------------------------------------------------------------*/
+// Cấu trúc vòng lặp
+
+3.0 Biễu diễn dưới dạng sơ đồ khối
+
+3.1 Vòng lặp while
+3.2 Luyện tập vòng lặp while
+
+3.3 Vòng lặp do - while
+3.4 Luyện tập vòng lặp do - while
+
+3.5 Vòng lặp for
+3.6 Luyện tập vòng lặp for
+
+3.7 Break & Continue
+3.8 Lồng các vòng lặp
+
+3.9 Bài tập kết hợp 3 chương
+3.10 Sửa bài tập
+3.11 Bài tập trắc nghiệm ôn tập 3 chương.
+
+/*---------------------------------------------------------------------*/
+// Hệ cơ số, bit
+
+4.0 Khái niệm về hệ cơ số
+4.1 Cách chuyển đổi giữa các hệ cơ số
+4.2 Luyện tập
+4.3 Sửa bài tập
+4.4 Bài tập trắc nghiệm
+
+/*---------------------------------------------------------------------*/
+// Toán tử
+
+5.0 Thứ tự ưu tiên của các phép toán
+5.1 Toán tử quan hệ (>, <, ==, <=, >= ... )
+5.2 Toán tử tăng, giảm (++, --)
+5.3 Toán tử logic (!, &&, || ...)
+5.4 Toán tử bit
+5.5 Bài tập trắc nghiệm
+
+/*---------------------------------------------------------------------*/
+// Nâng cao về biến, kiểu dữ liệu
+
+6.0 Biến toàn cục, tại sao không nên sử dụng nhiều biến toàn cục
+6.1 Biến static
+6.2 Ép kiểu
+6.3 Kiểu struct
+6.4 Kiểu auto
+6.5 Địa chỉ của biến
+6.6 Luyện tập
+6.7 Sửa bài tập
+6.8 Bài tập trắc nghiệm
+
+/*---------------------------------------------------------------------*/
 //
+
+
 
