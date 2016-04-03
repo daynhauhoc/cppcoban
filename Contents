@@ -86,9 +86,10 @@
 /*---------------------------------------------------------------------*/
 // Nâng cao về biến, kiểu dữ liệu
 
-6.0 Biến toàn cục, tại sao không nên sử dụng nhiều biến toàn cục
-6.1 Biến static
-6.2 Ép kiểu
+6.0 Kiểu kí tự
+6.1 Biến toàn cục, tại sao không nên sử dụng nhiều biến toàn cục
+6.2 Biến static
+6.3 Ép kiểu
 6.4 Kiểu auto
 6.5 Địa chỉ của biến
 6.6 Luyện tập
