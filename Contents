@@ -131,5 +131,34 @@
 8.7 Bài tập trắc nghiệm
 
 /*---------------------------------------------------------------------*/
-// 
+// Cơ bản về function
+
+9.0 Làm quen với khái niệm Function
+9.1 Hàm không có giá trị trả về
+9.2 Hàm có giá trị trả về
+9.3 Hàm main
+9.4 Truyền đối số cho hàm bằng giá trị
+9.5 Truyền đối số cho hàm bằng tham chiếu
+9.6 Hàm có tham số mặc định, hàm có tham số hằng
+9.7 Nạp chồng hàm
+9.8 Luyện tập
+9.9 Sửa bài tập
+9.10 Những vấn đề thường gặp
+
+/*---------------------------------------------------------------------*/
+// Con trỏ
+
+
+
+/*---------------------------------------------------------------------*/
+// Nâng cao về hàm
+
+11.0 Truyền đối số cho hàm bằng con trỏ
+11.1 Hàm có kiểu trả về là con trỏ
+11.2 Con trỏ hàm
+11.3 Đệ quy
+11.4 Luyện tập
+11.5 Sửa bài tập
+11.6 Những vấn đề thường gặp
+
 
