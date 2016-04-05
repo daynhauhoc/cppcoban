@@ -96,7 +96,7 @@
 6.2 Biến toàn cục, tại sao không nên sử dụng nhiều biến toàn cục
 6.3 Biến static
 6.4 Ép kiểu
-6.5 Kiểu auto
+6.5 Kiểu auto, từ khóa decltype (C++ 11)
 6.6 Địa chỉ của biến
 6.7 Luyện tập
 6.8 Sửa bài tập
@@ -150,7 +150,16 @@
 /*---------------------------------------------------------------------*/
 // Con trỏ
 
-
+10.0 Con trỏ là gì? Có đáng để quan tâm không? Cú pháp khai báo và khởi tạo.
+10.1 Cấp phát động (new, delete)
+10.2 Con trỏ trỏ đến 1 mảng, cấp phát mảng động bằng con trỏ.
+10.3 Toán tử tăng, giảm dùng cho con trỏ
+10.4 Con trỏ trỏ đến con trỏ
+10.5 Con trỏ hằng, hằng con trỏ
+10.6 Con trỏ void
+10.7 Luyện tập
+10.8 Sửa bài tập
+10.9 Những vấn đề thường gặp khi sử dụng con trỏ
 
 /*---------------------------------------------------------------------*/
 // Nâng cao về hàm
@@ -163,4 +172,14 @@
 11.5 Sửa bài tập
 11.6 Những vấn đề thường gặp
 
+/*---------------------------------------------------------------------*/
+// Kiểu dữ liệu tự định nghĩa
+
+12.0 Khái niệm và cách sử dụng kiểu struct
+12.1 Con trỏ kiểu struct
+12.2 Kiểu cấu trúc lồng nhau
+12.3 Kiểu liệt kê (enum)
+12.4 Luyện tập
+12.5 Sửa bài tập
+12.6 Những vấn đề thường gặp
 
