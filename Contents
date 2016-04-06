@@ -27,6 +27,7 @@
 1.11 Những lỗi thường gặp và cách sửa lỗi.
 1.12 Bài tập trắc nghiệm
 1.13 Debug chương trình
+1.14 Phân biệt các loại lỗi
 
 /*---------------------------------------------------------------------*/
 // Cấu trúc rẽ nhánh
@@ -195,4 +196,11 @@
 13.6 Những vấn đề thường gặp
 13.7 Bài tập trắc nghiệm
 
+/*---------------------------------------------------------------------*/
+// Một số thư viện thường dùng trong STL
+
+14.0 Vector
+14.1 Stack
+14.2 Queue
+14.3 Những vấn đề thường gặp
 
