@@ -211,3 +211,9 @@
 15.1 shared_ptr
 15.2 unique_ptr
 
+/*---------------------------------------------------------------------*/
+// Quản lý mã nguồn
+
+16.0 Viết chương trình với nhiều file
+16.1 Tạo và sử dụng thư viện liên kết tĩnh
+16.2 Tạo và sử dụng thư viện liên kết động
