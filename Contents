@@ -217,3 +217,9 @@
 16.0 Viết chương trình với nhiều file
 16.1 Tạo và sử dụng thư viện liên kết tĩnh
 16.2 Tạo và sử dụng thư viện liên kết động
+
+/*---------------------------------------------------------------------*/
+// Một số feature trong C++11, C++14
+
+17.0 Function template
+17.1 Lambda expression
