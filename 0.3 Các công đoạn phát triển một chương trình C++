@@ -56,4 +56,21 @@ Có thể trong cuộc sống các bạn gặp phải những vấn đề không
 một trường hợp khó giải quyết, và bạn cần cái máy tính của bạn giúp đỡ, đó là lúc mà bạn phải tự tìm ra câu trả lời cho bản thân.
 
 - Bước 2: Thiết kế giải pháp
+Đây là lúc mà bạn cần đặt ra câu hỏi: "Làm thế nào" để giải quyết những vấn đề trên? (Hình 0.3.4)
+Vấn đề nan giải là một trường hợp ở trên đều có nhiều hơn 1 cách giải quyết. Một trong số chúng tốt, số còn lại đa phần là không tốt.
+Thường thì trong bước này, một số lập trình viên tồi sẽ thực hiện một cách lôi thôi, cẩu thả nhất trong tất cả các công đoạn. 
+Mình đã thấy nhiều người mới học lập trình, sau khi nhìn ra được vấn đề, họ ngồi xuống và bắt đầu code những gì họ đang tưởng tượng.
+Đa phần, kết quả sinh ra không như mong đợi.
+
+Điển hình, một giải pháp tốt thường có những đặc điểm sau:
+- Nó có tính minh bạch, rõ ràng.
+- Nó có thể sử dụng lại và dễ thay đổi trong tương lai.
+- Tính hiệu quả.
+
+Thực hiện tốt công đoạn này, bạn sẽ giảm được tối đa khả năng phát sinh lỗi trong chương trình (sẽ tiết kiệm được khối thời gian cho 
+việc sửa lỗi). 
+
+Ở những bài sau, các bạn sẽ được học cách tự mình đưa ra giải pháp cho từng tình huống cụ thể.
+
+- Bước 3: Viết chương trình
 
