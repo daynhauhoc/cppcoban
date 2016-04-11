@@ -73,4 +73,32 @@ việc sửa lỗi).
 Ở những bài sau, các bạn sẽ được học cách tự mình đưa ra giải pháp cho từng tình huống cụ thể.
 
 - Bước 3: Viết chương trình
+Để viết được chương trình, bạn cần biết:
+  + Ngôn ngữ lập trình bạn đang sử dụng. (Hình 0.3.5)
+  + IDE (môi trường phát triển ứng dụng). (Hình 0.3.6)
+Bạn hoàn toàn có thể viết chương trình trên một số công cụ soản thảo văn bản như Notepad, Notepad++, Sublime Text,... Nhưng trong 
+khóa học này, mình khuyên các bạn nên sử dụng IDE, vì nó hổ trợ khá nhiều cho các bạn trong việc compile và liên kết các file đối tượng.
+Cụ thể, mình sử dụng công cụ Visual studio 2015 mà mình sẽ hướng dẫn cài đặt trong bài học tiếp theo.
+File chứa mã nguồn C++ của bạn cần được đặt tên và lưu với phần mở rộng là .cpp giúp cho hệ điều hành có thể hiểu được đó là file mã 
+nguồn C++. Sau này bạn có thể gặp một số file C++ có định dạng phần mở rộng khác như .h, .hpp... nhưng chúng ta sẽ nói về vấn đề này sau.
 
+- Bước 4: Biên dịch chương trình
+
+Để biên dịch một chương trình C++, chúng ta cần một trình biên dịch (compiler). (Hình 0.3.7)
+Mục đích của compile chương trình là biến những file mã nguồn có đuôi .cpp, .h, ... thành những file object .o
+
+(Hình 0.3.8)
+
+Chúng ta sử dụng luôn trình biên dịch tích hợp sẵn trong visual studio 2015 nên khá tiện lợi.
+
+- Bước 5: Liên kết các file object
+(Hình 0.3.9)
+Các files object sau khi được compiler biên dịch vẫn còn nằm tách biệt với nhau. Nên quá trình này sẽ thực hiện liên kết chúng thành 
+một file duy nhất, gọi là executable file (file .exe).
+
+- Bước 6: Chạy chương trình và kiểm lỗi
+
+Trong công đoạn này, bạn hoặc ai đó chạy chương trình mà bạn đã tạo ra, với nhiều giá trị khác nhau được đưa vào nhằm chắc chắn rằng 
+chương trình hoạt động như ý muốn.
+
+Ở bài sau, chúng ta sẽ nói về IDE (môi trường tích hợp phát triển). Hẹn gặp lại các bạn.
