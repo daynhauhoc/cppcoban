@@ -22,7 +22,7 @@ Dưới đây là link ảnh về chi phí cho Vs :
 ===================================================
   
    //Tiến hành tải bản cài đặt của  Visual studio Community 2015 
-// Lưu ý nhỏ trước khi cài đặt bạn cần lưu ý với phiên bản VS Community 2015 nên có Microsoft .NET Framework 4.6.1.
+   // Lưu ý nhỏ trước khi cài đặt bạn cần lưu ý với phiên bản VS Community 2015 nên có Microsoft .NET Framework 4.6.1.
 Nên update Framework trước khi cài đặt. Để tránh xảy ra lỗi đáng tiếc.
 Truy cập link sau để thực hiện việc update  Framework: 
  - https://www.microsoft.com/en-us/download/details.aspx?id=48130
