@@ -31,5 +31,18 @@ Truy cập link sau để thực hiện việc update  Framework:
 Sau khi tải xong, Chúng ta mở thư mục chứa file cài đặt có tên  : 
    - vs_community_ENU.exe
 Thực hiện các thao tác cài đặt như thường lệ :D
+(Hình 0.5.2)
+  - Sau đó sẽ hiện một cửa sổ thông báo nơi cài đặt và kiểu cài đặt
+  - Kiểu cài đặt có 2 kiểu  : 
+      + Default : sẽ cài C#/Vb và tính năng với desktop
+      + Custom  : người dùng sẽ tùy chọn tính năng muốn cài đặt (Hình 0.5.3)
+ Note  : Khuyên nên chọn kiểu Custom và tick các tùy chọn theo nhu cầu sử dụng.
+Khi đã chọn xong thì chúng ta nhấp Next và chờ đợi . . .
+Sau khi công việc cài đặt đã hoàn tất. Chúng ra reset máy để xem thành quả như thế nào :D
+ Đầu tiên, Visual studio yêu cầu đăng nhập với tài khoản Microsoft hoặc không đăng nhập.
+ Việc đăng nhập có lợi thế là sẽ đồng bộ hóa lại những cài đặt trên visual studio
+ Tiếp theo là việc lựa chọn theme (Hình 0.5.6)
+ Việc khởi động cho lần đầu tiên sử dụng sẽ mất chút thời gian tùy theo việc cài đặt ở phần Custom 
+ (Hinh 0.5.7)
 
   
