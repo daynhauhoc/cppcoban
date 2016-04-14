@@ -36,7 +36,7 @@ Thực hiện các thao tác cài đặt như thường lệ :D
   - Kiểu cài đặt có 2 kiểu  : 
       + Default : sẽ cài C#/Vb và tính năng với desktop
       + Custom  : người dùng sẽ tùy chọn tính năng muốn cài đặt (Hình 0.5.3)
- Note  : Khuyên nên chọn kiểu Custom và tick các tùy chọn theo nhu cầu sử dụng.
+Khuyên nên chọn kiểu Custom và tick các tùy chọn theo nhu cầu sử dụng
 Khi đã chọn xong thì chúng ta nhấp Next và chờ đợi . . .
 Sau khi công việc cài đặt đã hoàn tất. Chúng ra reset máy để xem thành quả như thế nào :D
  Đầu tiên, Visual studio yêu cầu đăng nhập với tài khoản Microsoft hoặc không đăng nhập.
@@ -44,5 +44,51 @@ Sau khi công việc cài đặt đã hoàn tất. Chúng ra reset máy để xe
  Tiếp theo là việc lựa chọn theme (Hình 0.5.6)
  Việc khởi động cho lần đầu tiên sử dụng sẽ mất chút thời gian tùy theo việc cài đặt ở phần Custom 
  (Hinh 0.5.7)
+ // HƯỚNG DẪN TẠO PROJECT TRONG Visual studio 2015
+      - Trong giao diện của VS chọn File -> New -> Project ( Có thể sử dụng phím tắt Ctr+Shift+N) (Hình.5.8)
+      - Sẽ có một cửa sổ New Project xuất hiện
+		(Hình 0.5.9)
+	 + Tìm tới phần Visual C++ -> Chọn General -> Empty Project.
+	 + Bên dưới là phần đặt tên của project và nơi lưu project.
+	* Ở phần Name thì các bạn có thể đặt có dấu
+
+	* Phần Location thì khuyên là nên tạo riêng từng mục một 
+	  và đặt ở phần ổ cứng khác với ổ C(Với các bạn sử dụng Window)
+ 	  để tránh việc mất các project quan trọng đã là đã làm
+
+	* Phần Solution name :  Không nên đặt tên có dấu hoặc kí tự như dấu cách		
+	 Khi file được chuyển sang các máy khác có thể không hoạt động
+		
+
+ 	Đây là hình ảnh sau khi bạn đã tạo một project mới (Hình 0.5.10)
+
+	//Có 2 phần các bạn cần để ý là phần : 
+ 	  + Solution Explorer : Tại đây có chứa các mục quan trọng các bạn cần để ý 
+		 Header File / Source File 
+            Nếu sau khi tạo xong project mà phần Solution Explorer chưa xuất hiện các bạn có thể
+		click vào View -> Solution Explorer (Ctr+Alt+L)
+	  + Error List : Tại đây có chứa các lỗi cú pháp gặp phải khi chạy chương trình.
+                      Mở Error List : Click View -> Error List
+	//	 TẠO FILE CPP ĐỂ THỰC HIỆN CHƯƠNG TRÌNH
+    	 Click chuột phải vào Source File -> Add -> New Item (Ctr+Shift+A)  
+           (Hình 0.5.11)
+	Một cửa sổ mới sẽ được tạo (Hình 0.5.12)
+        Chọn C++ File(.cpp) Chưa cần để ý tới phần Header File(.h) vội nha !
+        Đặt tên cho File mới (.cpp)
+ 	// Như vậy là đã xong phần cài đặt Visual Stuido 2015 và Hướng dẫn tạo project mới. Hẹn Gặp lại các bạn vào buổi tới với nhiều điều thú vị hơn nữa nhé :D
+	
+
+
+
+
+                                      
+
+
+	  
+
+
+     
+
+
 
   
