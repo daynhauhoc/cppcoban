@@ -179,10 +179,12 @@
 12.0 Khái niệm và cách sử dụng kiểu struct
 12.1 Con trỏ kiểu struct
 12.2 Kiểu cấu trúc lồng nhau
-12.3 Kiểu liệt kê (enum)
-12.4 Luyện tập
-12.5 Sửa bài tập
-12.6 Những vấn đề thường gặp
+12.3 Struct: bit field
+12.4 Kiểu liệt kê (enum)
+12.5 Kiểu union
+12.6 Luyện tập
+12.7 Sửa bài tập
+12.8 Những vấn đề thường gặp
 
 /*---------------------------------------------------------------------*/
 // Input & Output
