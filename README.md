@@ -38,10 +38,9 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 ---
 
-# Mục lục khóa học
+## Mục lục khóa học
 
-/*---------------------------------------------------------------------*/
-/* Get started */
+### Giới thiệu tổng quan khóa học
 
 0.0 Giới thiệu về Serial tutorial
 
@@ -60,9 +59,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 0.7 Biên dịch chương trình đầu tiên (Hello worrld)
 
 
-/*---------------------------------------------------------------------*/
-
-/* C++ basis */
+### C++ cơ bản
 
 1.0 Cấu trúc của một chương trình C++
 
@@ -94,10 +91,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 1.14 Phân biệt các loại lỗi
 
-
-/*---------------------------------------------------------------------*/
-
-// Cấu trúc rẽ nhánh
+### Cấu trúc rẽ nhánh
 
 2.0 Bool & biểu thức điều kiện, biễu diễn dưới dạng sơ đồ khối
 
@@ -121,9 +115,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 2.10 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Cấu trúc vòng lặp
+### Cấu trúc vòng lặp
 
 3.0 Biễu diễn dưới dạng sơ đồ khối
 
@@ -151,9 +143,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 3.12 Bài tập trắc nghiệm ôn tập 3 chương.
 
-/*---------------------------------------------------------------------*/
-
-// Hệ cơ số, bit
+### Hệ cơ số, bit
 
 4.0 Khái niệm về hệ cơ số
 
@@ -167,9 +157,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 4.5 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Toán tử
+### Toán tử
 
 5.0 Thứ tự ưu tiên của các phép toán
 
@@ -185,9 +173,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 5.6 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Nâng cao về biến, kiểu dữ liệu
+### Nâng cao về biến, kiểu dữ liệu
 
 6.0 Sử dụng thư viện stdint.h
 
@@ -211,9 +197,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 6.10 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Kiểu dữ liệu mảng
+### Kiểu dữ liệu mảng
 
 7.0 Mảng 1 chiều (Cách khai báo, tổ chức bộ nhớ, truy xuất phần tử...)
 
@@ -235,9 +219,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 7.9 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Kiểu chuỗi kí tự
+### Kiểu chuỗi kí tự
 
 8.0 Mảng kí tự (Cách khai báo và sử dụng)
 
@@ -255,9 +237,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 8.7 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Cơ bản về function
+### Cơ bản về function
 
 9.0 Làm quen với khái niệm Function
 
@@ -281,9 +261,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 9.10 Những vấn đề thường gặp
 
-/*---------------------------------------------------------------------*/
-
-// Con trỏ
+### Con trỏ
 
 10.0 Con trỏ là gì? Có đáng để quan tâm không? Cú pháp khai báo và khởi tạo.
 
@@ -305,9 +283,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 10.9 Những vấn đề thường gặp khi sử dụng con trỏ
 
-/*---------------------------------------------------------------------*/
-
-// Nâng cao về hàm
+### Nâng cao về hàm
 
 11.0 Truyền đối số cho hàm bằng con trỏ
 
@@ -323,9 +299,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 11.6 Những vấn đề thường gặp
 
-/*---------------------------------------------------------------------*/
-
-// Kiểu dữ liệu tự định nghĩa
+### Kiểu dữ liệu tự định nghĩa
 
 12.0 Khái niệm và cách sử dụng kiểu struct
 
@@ -345,9 +319,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 12.8 Những vấn đề thường gặp
 
-/*---------------------------------------------------------------------*/
-
-// Input & Output
+### Input & Output
 
 13.0 File, Stream trong C++
 
@@ -365,9 +337,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 13.7 Bài tập trắc nghiệm
 
-/*---------------------------------------------------------------------*/
-
-// Một số thư viện thường dùng trong STL
+### Một số thư viện thường dùng trong STL
 
 14.0 Vector
 
@@ -377,9 +347,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 14.3 Những vấn đề thường gặp
 
-/*---------------------------------------------------------------------*/
-
-// Auto pointer
+### Auto pointer
 
 15.0 auto_ptr
 
@@ -387,9 +355,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 15.2 unique_ptr
 
-/*---------------------------------------------------------------------*/
-
-// Quản lý mã nguồn
+### Quản lý mã nguồn
 
 16.0 Viết chương trình với nhiều file
 
@@ -397,9 +363,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 16.2 Tạo và sử dụng thư viện liên kết động
 
-/*---------------------------------------------------------------------*/
-
-// Một số feature trong C++11, C++14
+### Một số feature trong C++11, C++14
 
 17.0 Function template
 
