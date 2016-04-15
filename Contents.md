@@ -2,33 +2,56 @@
 /* Get started */
 
 0.0 Giới thiệu về Serial tutorial
+
 0.1 Giới thiệu về ngôn ngữ lập trình
+
 0.2 Giới thiệu về C++
+
 0.3 Giới thiệu về các công đoạn phát triển chương trình C++
+
 0.4 Giới thiệu về môi trường phát triển (IDE) chương trình C++
+
 0.5 Hướng dẫn cài đặt visual studio 2015 làm môi trường phát triển ứng dụng
+
 0.6 Những vấn đề thường gặp ở những người mới bắt đầu
+
 0.7 Biên dịch chương trình đầu tiên (Hello worrld)
+
 
 /*---------------------------------------------------------------------*/
 
 /* C++ basis */
 
 1.0 Cấu trúc của một chương trình C++
+
 1.1 Lệnh và khối lệnh, từ khóa
+
 1.2 In một cái gì đó ra màn hình (cout, endl)
+
 1.3 Biến, cách khai báo và sử dụng biến
+
 1.4 Các kiểu dữ liệu trong C++
+
 1.5 Nhập, xuất dữ liệu.
+
 1.6 Hằng số
+
 1.7 Phạm vi của biến
+
 1.8 Các phép toán cơ bản (+, -, *, /, %)
+
 1.9 Luyện tập
+
 1.10 Sửa bài tập
+
 1.11 Những lỗi thường gặp và cách sửa lỗi.
+
 1.12 Bài tập trắc nghiệm
+
 1.13 Debug chương trình
+
 1.14 Phân biệt các loại lỗi
+
 
 /*---------------------------------------------------------------------*/
 
@@ -37,15 +60,23 @@
 2.0 Bool & biểu thức điều kiện, biễu diễn dưới dạng sơ đồ khối
 
 2.1 Cấu trúc if (thiếu)
+
 2.2 Cấu trúc if (đủ)
+
 2.3 Cách dùng cấu trúc if khác (if...else if ..., cấu trúc if lồng nhau)
+
 2.4 Luyện tập
+
 2.5 Sửa bài tập
 
 2.6 Cấu trúc switch...case
+
 2.7 Luyện tập
+
 2.8 Sửa bài tập
+
 2.9 Những lỗi thường gặp
+
 2.10 Bài tập trắc nghiệm
 
 /*---------------------------------------------------------------------*/
@@ -55,20 +86,27 @@
 3.0 Biễu diễn dưới dạng sơ đồ khối
 
 3.1 Vòng lặp while
+
 3.2 Luyện tập vòng lặp while
 
 3.3 Vòng lặp do - while
+
 3.4 Luyện tập vòng lặp do - while
 
 3.5 Vòng lặp for
+
 3.6 Luyện tập vòng lặp for
 
 3.7 Break & Continue
+
 3.8 Lồng các vòng lặp
 
 3.9 Bài tập kết hợp 3 chương
+
 3.10 Sửa bài tập
+
 3.11 Những lỗi thường gặp
+
 3.12 Bài tập trắc nghiệm ôn tập 3 chương.
 
 /*---------------------------------------------------------------------*/
@@ -76,10 +114,15 @@
 // Hệ cơ số, bit
 
 4.0 Khái niệm về hệ cơ số
+
 4.1 Cách chuyển đổi giữa các hệ cơ số
+
 4.2 Luyện tập
+
 4.3 Sửa bài tập
+
 4.4 Những lỗi thường gặp
+
 4.5 Bài tập trắc nghiệm
 
 /*---------------------------------------------------------------------*/
@@ -87,11 +130,17 @@
 // Toán tử
 
 5.0 Thứ tự ưu tiên của các phép toán
+
 5.1 Toán tử quan hệ (>, <, ==, <=, >= ... )
+
 5.2 Toán tử tăng, giảm (++, --)
+
 5.3 Toán tử logic (!, &&, || ...)
+
 5.4 Toán tử bit
+
 5.5 Những lỗi thường gặp
+
 5.6 Bài tập trắc nghiệm
 
 /*---------------------------------------------------------------------*/
