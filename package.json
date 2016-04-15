@@ -1,0 +1,25 @@
+{
+  "name": "dnh-cppcoban",
+  "version": "1.0.0",
+  "description": "Day nhau hoc Cpp co ban",
+  "main": "index.js",
+  "scripts": {
+    "lint": "remark --quiet --frail .",
+    "test": "npm run lint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daynhauhoc/cppcoban.git"
+  },
+  "private": true,
+  "homepage": "https://github.com/daynhauhoc/cppcoban#readme",
+  "devDependencies": {
+    "remark": "^4.2.1",
+    "remark-lint": "^3.2.0"
+  },
+  "remarkConfig": {
+    "plugins": {
+      "lint": null
+    }
+  }
+}
