@@ -18,6 +18,7 @@
     "remark-lint": "^3.2.0"
   },
   "remarkConfig": {
+    "commonmark": true,
     "plugins": {
       "lint": null
     }
