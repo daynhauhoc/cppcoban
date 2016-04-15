@@ -12,7 +12,7 @@ Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập 
 
 ## Học gì
 
-học C++ để xây dựng phần mềm.
+Học C++ để xây dựng phần mềm.
 
 ## Giới thiệu
 
