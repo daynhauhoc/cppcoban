@@ -1,3 +1,5 @@
+Đây là một khóa học C++ mới, [thay cho khóa học cũ trên Youtube](https://www.youtube.com/playlist?list=PLyiioioEJSxHVTaeL-ELYy6Io-I8diIVZ), khóa học này cũng như [các khóa học trước](https://www.youtube.com/user/trandatnh/playlists), miễn phí cho mọi người.
+
 **Đối tượng học** là người không biết hoặc biết một ít lập trình
 Ví dụ: học sinh / sinh viên / người đi làm ngành khác hoặc lập trình viên ngôn ngữ khác muốn refresh kiến thức C++
 
