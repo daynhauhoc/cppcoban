@@ -20,7 +20,10 @@
   "remarkConfig": {
     "commonmark": true,
     "plugins": {
-      "lint": null
+      "lint": {
+        "list-item-bullet-indent": false,
+        "list-item-spacing": false
+      }
     }
   }
 }
