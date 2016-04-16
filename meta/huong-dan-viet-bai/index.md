@@ -81,3 +81,35 @@ Nếu các bạn chưa biết thì đây là cấu trúc chung để chèn hình
 ```md
 ![alt text](http://abc.com/link/to/image.jpg "Title text")
 ```
+
+Mình sẽ lấy ví dụ chính bài viết này để hướng dẫn các bạn chèn ảnh.
+
+Mỗi bài viết sẽ được chứa trong một thư mục riêng lẻ với file Markdown có tên
+là `index.md`.
+
+Hình ảnh cũng sẽ được chứa trong cùng thư mục.
+
+Bên dưới là cây thư mục của bài viết này:
+
+```
+|_meta
+  |__huong-dan-viet-bai
+    |__index.md
+    |__pr-failed.png
+    |__pr-passed.png
+    |__travis.png
+```
+
+Lưu ý: tất cả các tên file/ thư mục đều phải đặt tên dạng không dấu,
+chữ thường, viết liền, nối các từ với nhau bằng dấu `-`. Nói chung là url slug.
+
+Để chèn hình `pr-failed.png` thì chúng ta sẽ viết trong Markdown như thế này:
+
+```md
+![chú thích ngắn](./pr-failed.png?raw=true)
+```
+
+Các bạn chú ý phần `?raw=true`. Mục đích của phần này là giúp hình hiển thị
+chính xác trên giao diện của Github.
+
+## Front Matter (Metadata)
