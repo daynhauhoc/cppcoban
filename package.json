@@ -22,7 +22,8 @@
     "plugins": {
       "lint": {
         "list-item-bullet-indent": false,
-        "list-item-spacing": false
+        "list-item-spacing": false,
+        "first-heading-level": 2
       }
     }
   }
