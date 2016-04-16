@@ -54,21 +54,21 @@ sudo apt-get install codeblocks g++
 > **Chú ý** đối  với các bạn sử dụng Gnome thì nó chỉ là **Software Center**
 > thôi nhé.
 
-![Hình 0.6.1](./codeblock-001.png)
+![Hình 0.6.1](./codeblock-001.png?raw=true)
 
 Bấm vào ô tìm kiếm ở phía trên và điền từ khóa "**Code::block**",
 sẽ hiện ngay kết quả, chọn nó:
 
-![Hình 0.6.2](./codeblock-002.png)
+![Hình 0.6.2](./codeblock-002.png?raw=true)
 
 Bấm vào **Install** để cài đặt:
 
-![Hình 0.6.3](./codeblock-003.png)
+![Hình 0.6.3](./codeblock-003.png?raw=true)
 
 Trong lần đầu khởi động nó sẽ hiện lên bảng chọn Compiler và tất nhiên ta sẽ
 chọn **GNU GCC Compiler**, vì nó có sẵn mà:
 
-![Hình 0.6.4](./codeblock-004.png)
+![Hình 0.6.4](./codeblock-004.png?raw=true)
 
 Cùng viết thử một chương trình hello world rồi cùng xem nó hoạt động không nào
 (bấm vào nút bánh răn màu vàng):
@@ -82,22 +82,22 @@ int main()
 }
 ```
 
-![Hình 0.6.5](./codeblock-005.png)
+![Hình 0.6.5](./codeblock-005.png?raw=true)
 
 Oops! Nó đang báo lỗi với thông báo rằng: `g++ not found` - rất dễ hiểu vì
 trong bộ GNU không phải các ngôn ngữ nào cũng cài sẵn (chỉ C mới có sẵn thôi),
 ta phải cài trình dịch C++ cho GNU (cách cài tương tự như trên):
 
-![Hình 0.6.6](./codeblocks-006.png)
+![Hình 0.6.6](./codeblocks-006.png?raw=true)
 
 Xong bây giờ ta quay lại build thử xem nào:
 
-![Hình 0.6.7](./codeblock-007.png)
+![Hình 0.6.7](./codeblock-007.png?raw=true)
 
 Và bây giờ mọi thứ đã hoạt động tốt, bây giờ cùng run (nút play màu xanh)
 xem chuyện gì sẽ xảy ra nhé:
 
-![Hình 0.6.8](./codeblock-008.png)
+![Hình 0.6.8](./codeblock-008.png?raw=true)
 
 Hoạt động tốt rồi :)
 
