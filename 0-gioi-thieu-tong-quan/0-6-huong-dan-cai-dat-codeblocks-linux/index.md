@@ -39,7 +39,8 @@ Chúng ta có thể cài đặt Code::block bằng hai cách sau
 
 Trong cách này, dành cho các bạn đã quá quen với cửa sổ lệnh trong linux,
 các bước vô cùng đơn giản, truy cập vào Terminal bằng cách dùng tổ hợp phím
-`Ctrl` + `Alt` + `T` và nhập vào lần lượt các lệnh sau:
+<kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> và nhập vào lần lượt các
+lệnh sau:
 
 ```bash
 sudo apt-get update
@@ -88,7 +89,7 @@ Oops! Nó đang báo lỗi với thông báo rằng: `g++ not found` - rất d�
 trong bộ GNU không phải các ngôn ngữ nào cũng cài sẵn (chỉ C mới có sẵn thôi),
 ta phải cài trình dịch C++ cho GNU (cách cài tương tự như trên):
 
-![Hình 0.6.6](./codeblocks-006.png?raw=true)
+![Hình 0.6.6](./codeblock-006.png?raw=true)
 
 Xong bây giờ ta quay lại build thử xem nào:
 
