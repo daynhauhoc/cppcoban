@@ -1,3 +1,7 @@
+---
+title: Các công đoạn phát triển một phần mềm
+---
+
 Ở bài trước, chúng ta đã cùng nhau tìm hiểu C++ là gì, nó được dùng cho mục đích
 gì... Các bạn xem đến bài này nghĩa là các bạn đã xác định được phần nào hướng
 đi trong tương lai, hi vọng các bạn có thể theo đuổi đến cùng với
@@ -18,7 +22,7 @@ một phần mềm lớn.
 
 ![Hình 0.3.0](http://www.learncpp.com/images/CppTutorial/Section0/Development.png "hình vẽ miêu tả các công đoạn phát triển một chương trình")
 
-# Các bước phát triển một phần mềm
+Các bước phát triển một phần mềm
 
   - Xác định vấn đề cần giải quyết.
   - Thiết kế giải pháp (chọn nền tảng phát triển, chọn ngôn ngữ, chọn công cụ,

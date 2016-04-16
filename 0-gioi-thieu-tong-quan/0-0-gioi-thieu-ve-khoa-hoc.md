@@ -1,3 +1,7 @@
+---
+title: Giới thiệu về khóa học
+---
+
 Chào mừng đến với loạt bài hướng dẫn sử dụng ngôn ngữ lập trình C++!
 
 Loạt bài hướng dẫn này được thiết kế cho những người chưa hoặc biết một ít lập trình.
@@ -18,21 +22,21 @@ Những mục tiêu đề ra:
 Một khi bạn hoàn thành khóa học, bạn sẽ không chỉ biết về cách để lập trình C++, mà còn những vấn đề liên quan như: phong cách lập trình,
 những lỗi thường gặp, cách sửa lỗi, luyện tập kĩ năng lập trình, và kiểm tra khả năng lập trình của bạn...)
 
-- Cung cấp nhiều ví dụ mẫu. Đa phần, mọi người học lập trình thông qua cách làm theo các ví dụ có sẵn. Vì thế, khóa học này cung cấp 
+- Cung cấp nhiều ví dụ mẫu. Đa phần, mọi người học lập trình thông qua cách làm theo các ví dụ có sẵn. Vì thế, khóa học này cung cấp
 một lượng lớn bài mẫu, cho bạn thấy các khải niệm mà bạn đã học được sử dụng trên thực tế như thế nào.
 
-- Cung cấp một số bài tập sau mỗi tiết học giúp bạn rèn luyện khả năng thiết kế chương trình. Bạn có thể so sánh giải pháp của bạn với 
+- Cung cấp một số bài tập sau mỗi tiết học giúp bạn rèn luyện khả năng thiết kế chương trình. Bạn có thể so sánh giải pháp của bạn với
 giải pháp của chúng tôi để xem sự khác biệt. Nếu bạn gặp một số trục trặc trong chương trình, chúng tôi sẽ giải quyết cùng bạn.
 
 - Điều quan trọng nhất là: Programming can be a lot of fun!
 
 Phương pháp học chúng tôi đưa ra:
 
-- Bạn nên tự mình gõ lại những ví dụ mẫu và biên dịch chúng. Đừng copy và paste! Cách này giúp bạn học qua những lỗi mà bạn gặp phải, 
-hiểu được những thông báo lỗi (hoặc những cảnh báo) mà trình biên dịch đưa ra. Khi bạn gõ lại những ví dụ mẫu, thử suy nghĩ xem tại sao 
+- Bạn nên tự mình gõ lại những ví dụ mẫu và biên dịch chúng. Đừng copy và paste! Cách này giúp bạn học qua những lỗi mà bạn gặp phải,
+hiểu được những thông báo lỗi (hoặc những cảnh báo) mà trình biên dịch đưa ra. Khi bạn gõ lại những ví dụ mẫu, thử suy nghĩ xem tại sao
 chương trình cho ra kết quả như vậy.
 
-- Khi gặp rắc rối với lỗi trong chương trình, hãy sửa chữa chúng. Cố gắng xử lý những lỗi của bạn trước khi nhờ sự giúp đỡ 
+- Khi gặp rắc rối với lỗi trong chương trình, hãy sửa chữa chúng. Cố gắng xử lý những lỗi của bạn trước khi nhờ sự giúp đỡ
 của những người khác.
 
 - Viết những chương trình ngắn sử dụng những kiến thức bạn đã được học. Không có gì tốt hơn là tự luyện tập.
