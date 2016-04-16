@@ -47,7 +47,7 @@ Hãy sửa theo hướng dẫn rồi tiếp tục gửi các commit đã sửa l
 Khi giao diện của Github báo thế này là bài viết của bạn đã đạt yêu cầu
 mà DNH đặt ra
 
-![Github PR passed](./pr-passed.ong?raw=true)
+![Github PR passed](./pr-passed.png?raw=true)
 
 #### Kiểm tra trực tiếp trên máy
 
