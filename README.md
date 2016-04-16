@@ -102,7 +102,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 1.14 Phân biệt các loại lỗi
 
-Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant).
+#####Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant).
 
 
 ### Cấu trúc rẽ nhánh (Conditional statement)
@@ -234,7 +234,7 @@ Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng s
 
 7.9 Bài tập trắc nghiệm
 
-Keyword: Khai báo (declare), Mảng 1 chiều / mảng 2 chiều (one dimensional array / two dimensional arrays)
+#####Keyword: Khai báo (declare), Mảng 1 chiều / mảng 2 chiều (one dimensional array / two dimensional arrays)
 
 ### Kiểu chuỗi kí tự
 
@@ -278,7 +278,7 @@ Keyword: Khai báo (declare), Mảng 1 chiều / mảng 2 chiều (one dimension
 
 9.10 Những vấn đề thường gặp
 
-Keyword: Hàm (function/method), tham số (parameter), tham chiếu (reference), nạp chồng (overloading)
+#####Keyword: Hàm (function/method), tham số (parameter), tham chiếu (reference), nạp chồng (overloading)
 
 
 ### Con trỏ (Pointer)
@@ -303,7 +303,7 @@ Keyword: Hàm (function/method), tham số (parameter), tham chiếu (reference)
 
 10.9 Những vấn đề thường gặp khi sử dụng con trỏ
 
-Keyword: Mảng động (dynamic array), toán tử tăng/giảm (increment/decrement operator)
+#####Keyword: Mảng động (dynamic array), toán tử tăng/giảm (increment/decrement operator)
 
 
 ### Nâng cao về hàm
@@ -322,7 +322,7 @@ Keyword: Mảng động (dynamic array), toán tử tăng/giảm (increment/decr
 
 11.6 Những vấn đề thường gặp
 
-Keyword: Đệ quy (Recursion)
+#####Keyword: Đệ quy (Recursion)
 
 
 ### Kiểu dữ liệu tự định nghĩa
