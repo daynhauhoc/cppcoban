@@ -38,7 +38,7 @@ có dạng thế này:
 
 ![Github PR failed](./pr-failed.png?raw=true)
 
-Bạn bấm vào <kbd>Details</kbd> để chuyển sang Github và xem theo báo cáo cụ thể
+Bạn bấm vào <kbd>Details</kbd> để chuyển sang Travis và xem theo báo cáo cụ thể
 
 ![Travis Errors](./travis.png)
 
