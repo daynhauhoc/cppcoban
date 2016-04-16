@@ -23,7 +23,8 @@
       "lint": {
         "list-item-bullet-indent": false,
         "list-item-spacing": false,
-        "first-heading-level": 2
+        "first-heading-level": 2,
+        "no-html": false
       }
     }
   }
