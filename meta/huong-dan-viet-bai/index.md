@@ -1,4 +1,6 @@
-# Hướng dẫn cách viết bài
+---
+title: Hướng dẫn cách viết bài
+---
 
 ## Markdown
 
