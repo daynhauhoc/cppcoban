@@ -69,7 +69,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 0.7 Biên dịch chương trình đầu tiên (Hello worrld)
 
-#####Keyword: Biên dịch (compile)
+> Keyword: Biên dịch (compile)
 
 
 ### C++ cơ bản (C++ basics)
@@ -104,7 +104,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 1.14 Phân biệt các loại lỗi
 
-#####Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant)
+> Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant)
 
 
 ### Cấu trúc rẽ nhánh (Conditional statement)
@@ -236,7 +236,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 7.9 Bài tập trắc nghiệm
 
-#####Keyword: Khai báo (declare), Mảng 1 chiều / mảng 2 chiều (one dimensional array / two dimensional arrays)
+> Keyword: Khai báo (declare), Mảng 1 chiều / mảng 2 chiều (one dimensional array / two dimensional arrays)
 
 ### Kiểu chuỗi kí tự
 
@@ -280,7 +280,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 9.10 Những vấn đề thường gặp
 
-#####Keyword: Hàm (function/method), tham số (parameter), tham chiếu (reference), nạp chồng (overloading)
+> Keyword: Hàm (function/method), tham số (parameter), tham chiếu (reference), nạp chồng (overloading)
 
 
 ### Con trỏ (Pointer)
@@ -305,7 +305,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 10.9 Những vấn đề thường gặp khi sử dụng con trỏ
 
-#####Keyword: Mảng động (dynamic array), toán tử tăng/giảm (increment/decrement operator)
+> Keyword: Mảng động (dynamic array), toán tử tăng/giảm (increment/decrement operator)
 
 
 ### Nâng cao về hàm
@@ -324,7 +324,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 11.6 Những vấn đề thường gặp
 
-#####Keyword: Đệ quy (Recursion)
+> Keyword: Đệ quy (Recursion)
 
 
 ### Kiểu dữ liệu tự định nghĩa
