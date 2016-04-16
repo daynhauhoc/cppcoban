@@ -69,6 +69,8 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 0.7 Biên dịch chương trình đầu tiên (Hello worrld)
 
+#####Keyword: Biên dịch (compile)
+
 
 ### C++ cơ bản (C++ basics)
 
@@ -102,7 +104,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 1.14 Phân biệt các loại lỗi
 
-#####Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant).
+#####Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant)
 
 
 ### Cấu trúc rẽ nhánh (Conditional statement)
