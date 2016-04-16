@@ -8,6 +8,7 @@
   - Giới thiệu về các công đoạn phát triển chương trình C++
   - Giới thiệu về môi trường phát triển (IDE) chương trình C++
   - Hướng dẫn cài đặt visual studio 2015 làm môi trường phát triển ứng dụng
+  - Hướng dẫn cài đặt Code::blocks môi trường phát triển ứng dụng (Ubuntu)
 
 > Keyword: Biên dịch (compile)
 
