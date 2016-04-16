@@ -91,7 +91,7 @@ Hình ảnh cũng sẽ được chứa trong cùng thư mục.
 
 Bên dưới là cây thư mục của bài viết này:
 
-```
+```raw
 |_meta
   |__huong-dan-viet-bai
     |__index.md
