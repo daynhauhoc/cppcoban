@@ -41,19 +41,19 @@ sudo apt-get install codeblocks g++
 
 > **Chú ý** đối  với các bạn sử dụng Gnome thì nó chỉ là **Software Center** thôi nhé.
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/b/b6725b02d224ec34cb675fa65d0d3a6bd3d5a435.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/b/b6725b02d224ec34cb675fa65d0d3a6bd3d5a435.png)
 
 Bấm vào ô tìm kiếm ở phía trên và điền từ khóa "**Code::block**", sẽ hiện ngay kết quả, chọn nó:
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/6/6ad457f09459ad1e3cec7210606a4621d6a66179.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/6/6ad457f09459ad1e3cec7210606a4621d6a66179.png)
 
 Bấm vào **Install** để cài đặt:
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/2/22d40b543c61bebad6f8e16125d0758d1531b281.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/2/22d40b543c61bebad6f8e16125d0758d1531b281.png)
 
 Trong lần đầu khởi động nó sẽ hiện lên bảng chọn Compiler và tất nhiên ta sẽ chọn **GNU GCC Compiler**, vì nó có sẵn mà:
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/4/4fd487084db78125920b66cc5aed9d64f8a51912.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/4/4fd487084db78125920b66cc5aed9d64f8a51912.png)
 
 Cùng viết thử một chương trình hello world rồi cùng xem nó hoạt động không nào (bấm vào nút bánh răn màu vàng):
 
@@ -66,19 +66,19 @@ int main()
 }
 ```
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/e/eab23541d994e5f659b9948b34f7ead3d13daaef.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/e/eab23541d994e5f659b9948b34f7ead3d13daaef.png)
 
 Oops! Lỗi rồi, lạ nhĩ... nó thông báo rằng: `g++ not found` - rất dễ hiểu vì trong bộ GNU không phải các ngôn ngữ nào cũng cài sẵn (chỉ C mới có sẵn thôi), ta phải cài trình dịch C++ cho GNU (cách cài tương tự như trên):
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/7/7af00dddf7874b1e492c7ff4686649617e0567b6.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/7/7af00dddf7874b1e492c7ff4686649617e0567b6.png)
 
 Xong bây giờ ta quay lại build thử xem nào:
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/8/8e6e34fd043fba32e1bac3e1095e492f05f54394.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/8/8e6e34fd043fba32e1bac3e1095e492f05f54394.png)
 
 Okie, Ngon lành rồi, bây giờ cùng run (nút play màu xanh) thử nè:
 
-![](//daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/6/68fb6a22ed965dfe9e91ca964de186dca842006d.png)
+![](https://daynhauhoc.s3-ap-southeast-1.amazonaws.com/original/2X/6/68fb6a22ed965dfe9e91ca964de186dca842006d.png)
 
 Hoạt động tốt nhé :)
 
