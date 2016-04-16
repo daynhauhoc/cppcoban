@@ -56,19 +56,19 @@ mà DNH đặt ra
   - Sau khi tải xong các bạn mở shell/cmd lên
   - Tại thư mục gốc của repo này, gõ lệnh
 
-  ```console
-  npm install
-  ```
+    ```console
+    npm install
+    ```
 
-  để cài đặt các package cần thiết
+    để cài đặt các package cần thiết
 
   - Mỗi lần bạn cần kiểm tra thì gõ lệnh sau:
 
-  ```console
-  npm -s test
-  ```
+    ```console
+    npm -s test
+    ```
 
-  Các bạn sẽ thấy các thông báo tương tự như trên giao diện của Travis
+    Các bạn sẽ thấy các thông báo tương tự như trên giao diện của Travis
 
 ### Các lỗi Markdown thường gặp
 
