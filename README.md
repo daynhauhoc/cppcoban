@@ -53,7 +53,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 ### Giới thiệu tổng quan khóa học
 
-0.0 Giới thiệu về Serial tutorial
+0.0 Giới thiệu về series tutorial này
 
 0.1 Giới thiệu về ngôn ngữ lập trình
 
@@ -69,20 +69,22 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 0.7 Biên dịch chương trình đầu tiên (Hello worrld)
 
+> Keyword: Biên dịch (compile)
 
-### C++ cơ bản
 
-1.0 Cấu trúc của một chương trình C++
+### C++ cơ bản (C++ basics)
+
+1.0 Cấu trúc cơ bản của một chương trình C++
 
 1.1 Lệnh và khối lệnh, từ khóa
 
 1.2 In một cái gì đó ra màn hình (cout, endl)
 
-1.3 Biến, cách khai báo và sử dụng biến
+1.3 Các kiểu dữ liệu trong C++
 
-1.4 Các kiểu dữ liệu trong C++
+1.4 Nhập, xuất dữ liệu
 
-1.5 Nhập, xuất dữ liệu.
+1.5 Biến, cách khai báo và sử dụng biến
 
 1.6 Hằng số
 
@@ -102,7 +104,10 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 1.14 Phân biệt các loại lỗi
 
-### Cấu trúc rẽ nhánh
+> Keyword: in (print), biến (variable), kiểu dữ liệu (data type), hằng số (constant)
+
+
+### Cấu trúc rẽ nhánh (Conditional statement)
 
 2.0 Bool & biểu thức điều kiện, biễu diễn dưới dạng sơ đồ khối
 
@@ -126,7 +131,8 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 2.10 Bài tập trắc nghiệm
 
-### Cấu trúc vòng lặp
+
+### Cấu trúc vòng lặp (Loop statement)
 
 3.0 Biễu diễn dưới dạng sơ đồ khối
 
@@ -168,7 +174,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 4.5 Bài tập trắc nghiệm
 
-### Toán tử
+### Toán tử (Operator)
 
 5.0 Thứ tự ưu tiên của các phép toán
 
@@ -184,7 +190,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 5.6 Bài tập trắc nghiệm
 
-### Nâng cao về biến, kiểu dữ liệu
+### Nâng cao về biến, kiểu dữ liệu (Variables, Data type)
 
 6.0 Sử dụng thư viện stdint.h
 
@@ -208,7 +214,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 6.10 Bài tập trắc nghiệm
 
-### Kiểu dữ liệu mảng
+### Kiểu dữ liệu mảng (Array)
 
 7.0 Mảng 1 chiều (Cách khai báo, tổ chức bộ nhớ, truy xuất phần tử...)
 
@@ -230,6 +236,8 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 7.9 Bài tập trắc nghiệm
 
+> Keyword: Khai báo (declare), Mảng 1 chiều / mảng 2 chiều (one dimensional array / two dimensional arrays)
+
 ### Kiểu chuỗi kí tự
 
 8.0 Mảng kí tự (Cách khai báo và sử dụng)
@@ -248,7 +256,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 8.7 Bài tập trắc nghiệm
 
-### Cơ bản về function
+### Cơ bản về Hàm (function)
 
 9.0 Làm quen với khái niệm Function
 
@@ -272,7 +280,10 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 9.10 Những vấn đề thường gặp
 
-### Con trỏ
+> Keyword: Hàm (function/method), tham số (parameter), tham chiếu (reference), nạp chồng (overloading)
+
+
+### Con trỏ (Pointer)
 
 10.0 Con trỏ là gì? Có đáng để quan tâm không? Cú pháp khai báo và khởi tạo.
 
@@ -294,6 +305,9 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 10.9 Những vấn đề thường gặp khi sử dụng con trỏ
 
+> Keyword: Mảng động (dynamic array), toán tử tăng/giảm (increment/decrement operator)
+
+
 ### Nâng cao về hàm
 
 11.0 Truyền đối số cho hàm bằng con trỏ
@@ -309,6 +323,9 @@ Khóa học này bao gồm 5 khóa học nhỏ
 11.5 Sửa bài tập
 
 11.6 Những vấn đề thường gặp
+
+> Keyword: Đệ quy (Recursion)
+
 
 ### Kiểu dữ liệu tự định nghĩa
 
@@ -330,7 +347,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 12.8 Những vấn đề thường gặp
 
-### Input & Output
+### Nhập, xuất (Input & Output)
 
 13.0 File, Stream trong C++
 
@@ -352,9 +369,9 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 14.0 Vector
 
-14.1 Stack
+14.1 Stack (Ngăn xếp)
 
-14.2 Queue
+14.2 Queue (Hàng đợi)
 
 14.3 Những vấn đề thường gặp
 
