@@ -82,13 +82,15 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 0.6 Những vấn đề thường gặp ở những người mới bắt đầu
 
-0.7 Biên dịch chương trình đầu tiên (Hello worrld)
+
 
 > Keyword: Biên dịch (compile)
 
 ### C++ cơ bản (C++ basics)
 
-1.0 Cấu trúc cơ bản của một chương trình C++
+1.0.0 Biên dịch chương trình đầu tiên (Hello worrld)
+
+1.0.1 Cấu trúc cơ bản của một chương trình C++
 
 1.1 Lệnh và khối lệnh, từ khóa
 
