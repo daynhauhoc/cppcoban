@@ -36,7 +36,7 @@ Mỗi khi bạn gửi PR thì Travis sẽ tự động kiểm lỗi Markdown.
 Nếu các file Markdown bạn chỉnh sửa bị lỗi thì bên dưới PR của bạn sẽ
 có dạng thế này:
 
-![Github PR failed](./pr-failed.png?raw=true)
+![Github PR failed](./pr-failed.png)
 
 Bạn bấm vào <kbd>Details</kbd> để chuyển sang Github và xem theo báo cáo cụ thể
 
@@ -47,7 +47,7 @@ Hãy sửa theo hướng dẫn rồi tiếp tục gửi các commit đã sửa l
 Khi giao diện của Github báo thế này là bài viết của bạn đã đạt yêu cầu
 mà DNH đặt ra
 
-![Github PR passed](./pr-passed.png?raw=true)
+![Github PR passed](./pr-passed.png)
 
 #### Kiểm tra trực tiếp trên máy
 
@@ -106,11 +106,8 @@ chữ thường, viết liền, nối các từ với nhau bằng dấu `-`. Nó
 Để chèn hình `pr-failed.png` thì chúng ta sẽ viết trong Markdown như thế này:
 
 ```md
-![chú thích ngắn](./pr-failed.png?raw=true)
+![chú thích ngắn](./pr-failed.png)
 ```
-
-Các bạn chú ý phần `?raw=true`. Mục đích của phần này là giúp hình hiển thị
-chính xác trên giao diện của Github.
 
 ## Front Matter (Metadata)
 
