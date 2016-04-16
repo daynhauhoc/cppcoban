@@ -113,3 +113,24 @@ Các bạn chú ý phần `?raw=true`. Mục đích của phần này là giúp 
 chính xác trên giao diện của Github.
 
 ## Front Matter (Metadata)
+
+Để giúp website hiển thị chính xác các thông tin của bài viết, đầu mỗi file
+sẽ có một phần đặc biệt để viết các thông tin bài viết gọi là Front Matter.
+
+Cấu trúc sẽ như thế này:
+
+```md
+---
+title: Tên bài viết
+---
+
+Nội dung bình thường của file Markdown
+```
+
+Phần giữa hai dấu `---` được viết bằng YAML.
+Tạm thời chỉ có 1 trường `title`.
+Mình sẽ cập nhật thêm các trường mới khi có thay đổi ở website.
+
+Lưu ý: Vì `title` sẽ dùng làm heading 1 trên website nên tất cả heading của
+bài viết phải bắt đầu từ heading 2 `##`. Các bạn sẽ nhận được thông báo lỗi
+từ `remark-lint` nếu sử dụng heading 1.
