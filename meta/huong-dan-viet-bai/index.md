@@ -51,8 +51,33 @@ mà DNH đặt ra
 
 #### Kiểm tra trực tiếp trên máy
 
+  - Tải và cài đặt Node.js runtime.
+    [Tải về từ trang chủ](https://nodejs.org/en/)
+  - Sau khi tải xong các bạn mở shell/cmd lên
+  - Tại thư mục gốc của repo này, gõ lệnh
+
+  ```console
+  npm install
+  ```
+
+  để cài đặt các package cần thiết
+
+  - Mỗi lần bạn cần kiểm tra thì gõ lệnh sau:
+
+  ```console
+  npm -s test
+  ```
+
+  Các bạn sẽ thấy các thông báo tương tự như trên giao diện của Travis
+
 ### Các lỗi Markdown thường gặp
 
-## Hình ảnh
+(wip...)
 
-(Hướng dẫn chèn hình ảnh)
+## Chèn hình ảnh
+
+Nếu các bạn chưa biết thì đây là cấu trúc chung để chèn hình ảnh cho Markdown
+
+```md
+![alt text](http://abc.com/link/to/image.jpg "Title text")
+```
