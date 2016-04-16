@@ -42,7 +42,7 @@ các bước vô cùng đơn giản, truy cập vào Terminal bằng cách dùng
 <kbd>Ctrl</kbd> + <kbd>Alt</kbd> + <kbd>T</kbd> và nhập vào lần lượt các
 lệnh sau:
 
-```bash
+```console
 sudo apt-get update
 sudo apt-get install codeblocks g++
 ```
