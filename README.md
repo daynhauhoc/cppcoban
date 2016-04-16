@@ -80,10 +80,6 @@ Khóa học này bao gồm 5 khóa học nhỏ
 
 0.5 Hướng dẫn cài đặt visual studio 2015 làm môi trường phát triển ứng dụng
 
-0.6 Những vấn đề thường gặp ở những người mới bắt đầu
-
-
-
 > Keyword: Biên dịch (compile)
 
 ### C++ cơ bản (C++ basics)
@@ -411,3 +407,7 @@ Khóa học này bao gồm 5 khóa học nhỏ
 17.0 Function template
 
 17.1 Lambda expression
+
+### Khác
+
+- Những vấn đề thường gặp ở những người mới bắt đầu
