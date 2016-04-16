@@ -1,5 +1,5 @@
 ---
-title: Hướng dẫn cài đặt Code::blocks làm môi trường phát triển ứng dụng trên Ubuntu
+title: Hướng dẫn cài đặt Code::blocks môi trường phát triển ứng dụng (Ubuntu)
 ---
 
 Tiếp the trong chủ đề này, chúng ta sẽ cài đặt Code::block thiết lập môi
@@ -14,22 +14,22 @@ lệnh hay code editor, chương trình sửa lỗi hay debugger, chương trìn
 ứng dụng khi chạy thực tế hay simulator... hỗ trợ việc lập trình C/C++ trên
 nền tảng Linux, Những tính năng nổi bậc phải kể đến như:
 
-* Các bộ compilers miễn phí
-* Source formatter (dựa trên AStyle)
-* Tạo C++ classes theo từng bước
-* Code-completion / symbols-browser (Gợi ý Coding)
-* Default MIME handler
-* Tạo Code::Blocks plugins dễ dàng
-* To-do list
-* Autosave (cái này hữu ích với nhiều trường hợp nhất định)
-* Rất nhẹ
-* Code::blocks miễn phí
+  * Các bộ compilers miễn phí
+  * Source formatter (dựa trên AStyle)
+  * Tạo C++ classes theo từng bước
+  * Code-completion / symbols-browser (Gợi ý Coding)
+  * Default MIME handler
+  * Tạo Code::Blocks plugins dễ dàng
+  * To-do list
+  * Autosave (cái này hữu ích với nhiều trường hợp nhất định)
+  * Rất nhẹ
+  * Code::blocks miễn phí
 
 Và còn nhiều nữa, các bạn tự khám phá nhé.
 
 > **Chú ý:** Ngoài Code::Blocks ra còn có các IDE khác hỗ trợ lập trình C/C++
-trên Linux như Eclipse, QtCreator... hoặc chỉ cần lệnh bạn cũng có thể compile
-C/C++. Bạn có thể tìm hiểu thêm trên mạng.
+> trên Linux như Eclipse, QtCreator... hoặc chỉ cần lệnh bạn cũng có thể compile
+> C/C++. Bạn có thể tìm hiểu thêm trên mạng.
 
 ## Cách cài đặt Code::blocks
 
@@ -51,11 +51,13 @@ sudo apt-get install codeblocks g++
 Đầu tiên, chúng ta vào Dashboard của Ubuntu và tìm kiếm với từ khóa
 "**Ubuntu**" sẽ có một ứng dụng **Ubuntu Software Center**, ta chọn vào nó:
 
-> **Chú ý** đối  với các bạn sử dụng Gnome thì nó chỉ là **Software Center** thôi nhé.
+> **Chú ý** đối  với các bạn sử dụng Gnome thì nó chỉ là **Software Center**
+> thôi nhé.
 
 ![Hình 0.6.1](./codeblock-001.png)
 
-Bấm vào ô tìm kiếm ở phía trên và điền từ khóa "**Code::block**", sẽ hiện ngay kết quả, chọn nó:
+Bấm vào ô tìm kiếm ở phía trên và điền từ khóa "**Code::block**",
+sẽ hiện ngay kết quả, chọn nó:
 
 ![Hình 0.6.2](./codeblock-002.png)
 
@@ -63,11 +65,13 @@ Bấm vào **Install** để cài đặt:
 
 ![Hình 0.6.3](./codeblock-003.png)
 
-Trong lần đầu khởi động nó sẽ hiện lên bảng chọn Compiler và tất nhiên ta sẽ chọn **GNU GCC Compiler**, vì nó có sẵn mà:
+Trong lần đầu khởi động nó sẽ hiện lên bảng chọn Compiler và tất nhiên ta sẽ
+chọn **GNU GCC Compiler**, vì nó có sẵn mà:
 
 ![Hình 0.6.4](./codeblock-004.png)
 
-Cùng viết thử một chương trình hello world rồi cùng xem nó hoạt động không nào (bấm vào nút bánh răn màu vàng):
+Cùng viết thử một chương trình hello world rồi cùng xem nó hoạt động không nào
+(bấm vào nút bánh răn màu vàng):
 
 ```cpp
 #include <iostream>
@@ -80,7 +84,9 @@ int main()
 
 ![Hình 0.6.5](./codeblock-005.png)
 
-Oops! Nó đang báo lỗi với thông báo rằng: `g++ not found` - rất dễ hiểu vì trong bộ GNU không phải các ngôn ngữ nào cũng cài sẵn (chỉ C mới có sẵn thôi), ta phải cài trình dịch C++ cho GNU (cách cài tương tự như trên):
+Oops! Nó đang báo lỗi với thông báo rằng: `g++ not found` - rất dễ hiểu vì
+trong bộ GNU không phải các ngôn ngữ nào cũng cài sẵn (chỉ C mới có sẵn thôi),
+ta phải cài trình dịch C++ cho GNU (cách cài tương tự như trên):
 
 ![Hình 0.6.6](./codeblocks-006.png)
 
@@ -88,11 +94,13 @@ Xong bây giờ ta quay lại build thử xem nào:
 
 ![Hình 0.6.7](./codeblock-007.png)
 
-Và bây giờ mọi thứ đã hoạt động tốt, bây giờ cùng run (nút play màu xanh) xem chuyện gì sẽ xảy ra nhé:
+Và bây giờ mọi thứ đã hoạt động tốt, bây giờ cùng run (nút play màu xanh)
+xem chuyện gì sẽ xảy ra nhé:
 
 ![Hình 0.6.8](./codeblock-008.png)
 
 Hoạt động tốt rồi :)
 
-Như vậy ta đã hoàn thành việc cài đặt IDE Code::blocks trên Ubuntu để chuẩn bị cho các bài học sau này.
+Như vậy ta đã hoàn thành việc cài đặt IDE Code::blocks trên Ubuntu để chuẩn bị
+cho các bài học sau này.
 Hẹn các bạn vào những bài học thú vị tiếp theo nhé !
