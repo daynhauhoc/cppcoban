@@ -61,3 +61,10 @@ Khóa học này bao gồm 5 khóa học nhỏ
   - Một máy tính, có thể sử dụng Windows/Linux hay MacBook
   - Đường truyền internet tương đối tốt
   - Có kế hoạch học tập nghiêm túc
+
+# Đóng góp cho khóa học
+
+Như các bạn đã thấy thì đây là một khóa học open source nên nếu phát hiện có
+bất cứ sai sót nào hãy gửi Pull Request về cho DNH để khắc phục các lỗi sai nhé.
+
+[Hướng dẫn viết bài cho khóa học](./meta/huong-dan-viet-bai/index.md)
