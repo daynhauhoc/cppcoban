@@ -147,20 +147,20 @@ như `.h`, `.hpp` ... nhưng chúng ta sẽ nói về vấn đề này sau.
 (Hình 0.3.7)
 
 Mục đích của compile chương trình là biến những file mã nguồn có đuôi
-`.cpp`, `.h`, ... thành những file object `.o`
+`.cpp`, `.h`, ... thành những object file `.o`
 
 (Hình 0.3.8)
 
 Chúng ta sử dụng luôn trình biên dịch tích hợp sẵn trong visual studio 2015
 nên khá tiện lợi.
 
-## Bước 5: Liên kết các file object
+## Bước 5: Liên kết các object file
 
 (Hình 0.3.9)
 
-Các files object sau khi được compiler biên dịch vẫn còn nằm tách biệt với nhau.
+Các object file sau khi được compiler biên dịch vẫn còn nằm tách biệt với nhau.
 Nên quá trình này sẽ thực hiện liên kết chúng thành một file duy nhất,
-gọi là executable file (file .exe).
+gọi là executable file (file `.exe`).
 
 ## Bước 6: Chạy chương trình và kiểm lỗi
 
