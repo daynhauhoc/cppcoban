@@ -2,7 +2,7 @@
 title: Hướng dẫn cài đặt Code::blocks môi trường phát triển ứng dụng (Ubuntu)
 ---
 
-Tiếp the trong chủ đề này, chúng ta sẽ cài đặt Code::block thiết lập môi
+Tiếp theo trong chủ đề này, chúng ta sẽ cài đặt Code::block thiết lập môi
 trường lập trình ngôn ngữ C/C++ trên Ubuntu nhằm phục vụ việc học tập của các
 bạn chỉ  có máy Linux mà cụ thể ở đây là Ubuntu.
 
