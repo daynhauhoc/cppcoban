@@ -15,7 +15,8 @@
   "homepage": "https://github.com/daynhauhoc/cppcoban#readme",
   "devDependencies": {
     "remark": "^4.2.1",
-    "remark-lint": "^3.2.0"
+    "remark-lint": "^3.2.0",
+    "unist-util-visit": "^1.1.0"
   },
   "remarkConfig": {
     "commonmark": true,
@@ -24,7 +25,8 @@
         "list-item-bullet-indent": false,
         "list-item-spacing": false,
         "first-heading-level": 2,
-        "no-html": false
+        "no-html": false,
+        "external": ["./codes/rules/check-image-ref.js"]
       }
     }
   }
