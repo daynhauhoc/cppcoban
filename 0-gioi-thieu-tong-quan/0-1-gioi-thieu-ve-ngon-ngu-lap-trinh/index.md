@@ -65,7 +65,7 @@ Và thứ giúp lập trình viên thực hiện quá trình biên dịch mã m�
 
 Đây là mô tả đơn giản về quá trình biên dịch:
 
-![](http://learncpp.com/images/CppTutorial/Section0/CompiledExecutable.png "Nguồn: learncpp.com")
+![](./CompiledExecutable.png "Nguồn: learncpp.com")
 
 Một ***Interpreter*** (trình thông dịch) là một chương trình chuyển đổi
 trực tiếp ngôn ngữ lập trình bậc cao về mã máy không thông qua
@@ -75,7 +75,7 @@ liên tục khi chương trình đang chạy.
 
 Đây là mô tả về quá trình thông dịch:
 
-![](http://learncpp.com/images/CppTutorial/Section0/Interpreted.png "Nguồn: learncpp.com")  
+![](./Interpreted.png "Nguồn: learncpp.com")  
 
 Thông thường, một chương trình C/C++ cần được biên dịch mới chạy được
 trên phần cứng máy tính. Một số ngôn ngữ lập trình khác có thể sử dụng
