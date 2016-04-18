@@ -2,13 +2,13 @@
 
 ### Giới thiệu tổng quan khóa học
 
-  - Giới thiệu về series tutorial này
-  - Giới thiệu về ngôn ngữ lập trình
-  - Giới thiệu về C++
-  - Giới thiệu về các công đoạn phát triển chương trình C++
+  - [Giới thiệu về khóa học](./0-gioi-thieu-tong-quan/0-0-gioi-thieu-ve-khoa-hoc.md)
+  - [Giới thiệu về ngôn ngữ lập trình](./0-gioi-thieu-tong-quan/0-1-gioi-thieu-ve-ngon-ngu-lap-trinh.md)
+  - [Giới thiệu về C++](./0-gioi-thieu-tong-quan/0-2-gioi-thieu-ve-ngon-ngu-cpp.md)
+  - [Giới thiệu về các công đoạn phát triển chương trình C++](./0-gioi-thieu-tong-quan/0-3-cac-cong-doan-phat-trien-mot-phan-mem-cpp.md)
   - Giới thiệu về môi trường phát triển (IDE) chương trình C++
-  - Hướng dẫn cài đặt visual studio 2015 làm môi trường phát triển ứng dụng
-  - Hướng dẫn cài đặt Code::blocks môi trường phát triển ứng dụng (Ubuntu)
+  - [Cài đặt visual studio 2015 làm môi trường phát triển ứng dụng](./0-gioi-thieu-tong-quan/0-5-huong-dan-cai-dat-vs2015.md)
+  - [Cài đặt Code::blocks môi trường phát triển ứng dụng (Ubuntu)](./0-gioi-thieu-tong-quan/0-6-huong-dan-cai-dat-codeblocks-linux/index.md)
 
 > Keyword: Biên dịch (compile)
 
