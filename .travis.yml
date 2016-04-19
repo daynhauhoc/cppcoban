@@ -2,6 +2,18 @@ language: node_js
 sudo: false
 node_js:
   - 5
+env:
+  global:
+    # TRAVIS_TOKEN
+    - secure: RtMQv7BtBht4ayCEI+D4FGfEcSgi94DX5y6z210slPm6/skc0CSdL4CXKtWcWjp7mfjYf1ylC/Y6nP1SvDIl0Y0tEu57omnLkaLpln6eQ797poc5R9ojYnVrLLgKpgWnxOaqTD2Xz+VVxq9ug98ebahO+gXetjcNr1gubv+jk5P+oK8fWt47QpNf1X1T8dPx9rWg6yLI0Cx/tgcBv7NR1ATzxSTMV1pYIT/rdIhfOPCGgbx5mtu7mXJpoiNDuXUwugi5WW6o2YSkrZhkPCRyT5HXpvAsM/82XVY95acJfsg0R/MkVYQOAi0raOOdKol4kanKrqofgz4GBvx13BYKvRpmQL2Pb2exT4Xr3RQ0GzHYOuCaRl4DSuiHQ+CHuBeQbuypxFt6i/yI7htkGy90YIBD9T+qYACQUMWJ1R5EhaiRRgP0XMhfuvKCIZopeOBOxbKyPOQYFynxmHYYmdp3PZxUSmHJU2nUO9jWSDYGY1qKoUzbUbuJI6MvDgYN3IxLhmTqQyw06CMb/h+3SyD9rroHol317c8GW1OjljQ9MbPfr89B/+NtDbVlUpxbZQe7fQ23RmBFN0IIptCUfgUQlwLx4qypgyV/KlBrwsgk3DKqmyJpJBXkucoknbBPrKHUaqsrCMOFgukEHDokyO62k/rIg8NLOVzShF0hQxTwjLE=
 cache:
   directories:
     - node_modules
+after_success:
+  - npm run test:code
+deploy:
+  skip_cleanup: true
+  provider: script
+  script: node codes/scripts/rebuild
+  'on':
+    branch: master
