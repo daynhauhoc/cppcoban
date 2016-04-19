@@ -2,8 +2,8 @@
 title: Hướng dẫn cài đặt Xcode để lập trình trên Mac OSX
 ---
 
-Ở bài viết này, mình sẽ hướng dẫn các bạn thiết lập môi trường để lập trình C/
-C++ trên hệ điều hành **Mac OS X**.
+Ở bài viết này, mình sẽ hướng dẫn các bạn thiết lập môi trường để lập trình 
+C/C++ trên hệ điều hành **Mac OS X**.
 
 ##Chúng ta phải làm gì đầu tiên?
 
@@ -29,8 +29,8 @@ cho những nhà phát triển lập trình trên hệ điều hành **Mac OS X*
 
 ###2. Cài đặt
 
-Đầu tiên ta sẽ download **Xcode** từ trên **App Store**. Nếu bạn thì chưa tìm 
-được App Store ở đâu thì đây sẽ là một vài chỉ dẫn cho bạn
+Đầu tiên ta sẽ download **Xcode** từ trên **App Store**. Nếu bạn chưa tìm 
+được App Store ở đâu thì đây sẽ là một vài chỉ dẫn cho bạn.
 Ở góc trên bên trái màn hình, nhấn vào biểu tượng **Apple -> System 
 Preferences...**
 
@@ -155,16 +155,16 @@ không tìm được, nhớ chứ!)
 Hãy dẫn **Terminal** tới **folder chứa file Hello.cpp** bằng cú pháp
 
 ` cd "đường dẫn"` (cd là change directory)
-ví dụ ở đay là: ` cd Working/"[DNH] Dạy C++"/`
+ví dụ ở đây là: ` cd Working/"[DNH] Dạy C++"/`
 
 Tiếp là cú pháp 
 
 ` g++ -o {tên chương trình} {tên file cần compile}`
 vd ở đây là: `g++ -o hello hello.cpp `
 
-Lệnh này để **compile file hello.cpp** để **tạo một chương trình tên hello**
+Lệnh này **compile file hello.cpp** để **tạo một chương trình tên hello**
 
-Sau đó, để chạy là cú pháp:
+Sau đó, để chạy chương trình ta dùng cú pháp:
 
 ` ./{tên chương trình}`
 
