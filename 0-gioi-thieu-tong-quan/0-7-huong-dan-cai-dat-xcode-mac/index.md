@@ -140,7 +140,7 @@ một **TextEditor** nào để viết. Ví dụ như **TextWrangler**, có kèm
 **Hãy thử tìm trên Google và download!**
 Tạo một file **Hello.cpp** như dưới:
 
-```.cpp
+```cpp
 #include <iostream>
 
 int main()
