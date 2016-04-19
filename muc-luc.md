@@ -3,7 +3,7 @@
 ### Giới thiệu tổng quan khóa học
 
   - [Giới thiệu về khóa học](./0-gioi-thieu-tong-quan/0-0-gioi-thieu-ve-khoa-hoc.md)
-  - [Giới thiệu về ngôn ngữ lập trình](./0-gioi-thieu-tong-quan/0-1-gioi-thieu-ve-ngon-ngu-lap-trinh.md)
+  - [Giới thiệu về ngôn ngữ lập trình](./0-gioi-thieu-tong-quan/0-1-gioi-thieu-ve-ngon-ngu-lap-trinh/index.md)
   - [Giới thiệu về C++](./0-gioi-thieu-tong-quan/0-2-gioi-thieu-ve-ngon-ngu-cpp.md)
   - [Giới thiệu về các công đoạn phát triển chương trình C++](./0-gioi-thieu-tong-quan/0-3-cac-cong-doan-phat-trien-mot-phan-mem-cpp.md)
   - Giới thiệu về môi trường phát triển (IDE) chương trình C++
