@@ -1,4 +1,3 @@
-
 ---
 title: Hướng dẫn cài đặt Xcode để lập trình trên Mac OSX
 ---
