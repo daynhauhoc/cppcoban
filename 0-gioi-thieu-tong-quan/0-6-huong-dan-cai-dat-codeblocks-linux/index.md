@@ -12,7 +12,7 @@ Code::Blocks là một Integrated Development Environment (IDE) tức là một 
 trường tích hợp bao gồm nhiều công cụ khác nhau như chương trình viết mã
 lệnh hay code editor, chương trình sửa lỗi hay debugger, chương trình mô phỏng
 ứng dụng khi chạy thực tế hay simulator... hỗ trợ việc lập trình C/C++ trên
-nền tảng Linux, Những tính năng nổi bậc phải kể đến như:
+nền tảng Linux. Những tính năng nổi bật phải kể đến như:
 
   * Các bộ compilers miễn phí
   * Source formatter (dựa trên AStyle)
@@ -72,7 +72,7 @@ chọn **GNU GCC Compiler**, vì nó có sẵn mà:
 ![Hình 0.6.4](./codeblock-004.png)
 
 Cùng viết thử một chương trình hello world rồi cùng xem nó hoạt động không nào
-(bấm vào nút bánh răn màu vàng):
+(bấm vào nút bánh răng màu vàng):
 
 ```cpp
 #include <iostream>
