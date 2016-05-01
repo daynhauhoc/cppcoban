@@ -1,4 +1,6 @@
-#Cấu trúc rẽ nhánh khác (if...else if ..., cấu trúc if lồng nhau)
+---
+title : Cấu trúc rẽ nhánh khác (if...else if ..., cấu trúc if lồng nhau)
+---
 
 >Chúng ta sẽ cùng sử dụng kiến thức của bài if else và toán tử logic để cùng tìm hiểu bài này.
 >Hi vọng các bạn nắm chắc kiến thức bài trước. Để không khỏi bỡ ngỡ tại bài này.
