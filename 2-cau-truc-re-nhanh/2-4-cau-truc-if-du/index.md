@@ -1,5 +1,6 @@
-# Cấu trúc rẽ nhánh (tiếp)  
-
+---
+title : Cấu trúc rẽ nhánh (tiếp)  
+---
 Quay trở lại với câu hỏi của bài trước.
 
 >Nếu **cái gì đó** không đúng thì sao?
