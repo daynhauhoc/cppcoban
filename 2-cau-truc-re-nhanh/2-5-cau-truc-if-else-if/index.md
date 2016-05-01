@@ -47,14 +47,14 @@ Các bạn tham khảo đoạn code sau :
 **Output 2**
   	
 	-10 la so am
->
+
 **Input 3**
 
->	`n=0;`
+	`n=0;`
 
->**Output 3**
+**Output 3**
   	
->	`0 la so am`
+	`0 la so am`
 
 ###Có điều gì đó không ổn ở Output số 3 rồi.
 
