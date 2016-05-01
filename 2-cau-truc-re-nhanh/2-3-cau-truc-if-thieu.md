@@ -1,9 +1,7 @@
 #Cấu trúc rẽ nhánh(Conditional statement)
 
-Chào mừng các bạn quay lại với khóa học hướng thực hành ngôn ngữ C++
-
 ----------
-### Cấu trúc If thiếu
+###Cấu trúc If thiếu
 
 	if (biểu thức điều kiện) 
 	{
@@ -50,13 +48,13 @@ Cùng vận dụng lại kiến thức về kiểu dữ liệu Boolean và cách
 * Nhập vào số tuổi, kiểm tra xem tuổi có **< 18** tuổi hay không ? Có thì in ra " tuoi nho hon 18 !"
 
 
-![Hình 2.3.1](/Images/2.3/2.3.1.png)
+![Hình 2.3.1](/Images/2.3/2.3.1.png?raw=true)
 
 >Mọi người cùng code rồi debug một vài trường hợp xem như thế nào ?
 
 Đây là kết quả 
 
-![Hình 2.3.2](/Images/2.3/2.3.2.png)
+![Hình 2.3.2](/Images/2.3/2.3.2.png?raw=true)
 
 
 >Cấu trúc rẽ nhánh đơn giản đầu tiên là cấu trúc if thiếu có dạng như vậy.Cùng đi phân tích cách hoạt động của nó.
