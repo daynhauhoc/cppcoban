@@ -1,5 +1,6 @@
-### Cấu trúc Switch-Case
-
+---
+title : Cấu trúc Switch-Case
+---
 Chúng ta thử cùng xem ví dụ sau : 
 
 Nhập vào một số nguyên. Sau đó kiểm tra số đó có bằng 1 trong các số từ 0 tới 3 hay không ? 
