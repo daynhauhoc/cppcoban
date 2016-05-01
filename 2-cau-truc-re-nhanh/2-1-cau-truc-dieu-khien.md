@@ -1,6 +1,6 @@
 
 ---
-title : Cấu trúc rẽ nhánh (Conditional statement)
+Cấu trúc rẽ nhánh (Conditional statement)
 ---
 
 
@@ -26,7 +26,7 @@ Ví dụ :
 
 * Chúng ta sẽ cùng thử làm một ví dụ sau 
 
-![Hình 2.1.1](/Images/2.1/2.1.1.png)
+![Hình 2.1.1](/Images/2.1/2.1.1.png?raw=true)
 
 **Các bạn thử gõ rồi run thử xem màn hình in ra như thế nào ?**
 
@@ -48,7 +48,7 @@ Chính vì lý do đó khi ta dùng `cout` để in ra màn hình thì nó sẽ 
 Tất nhiên là được. Khi ra sử dụng `boolalpha` trong thư viện `std`.
 
  
-![Hình 2.1.2](/Images/2.1/2.1.2.png)
+![Hình 2.1.2](/Images/2.1/2.1.2.png?raw=true)
 
 **Kết quả :**
 
@@ -71,14 +71,14 @@ Trước hết, cùng thử xem một ví dụ :
 
 Chúng ta cùng xem sơ đồ khối sau :
 
-![Hình 2.1.3](/Images/2.1/2.1.3.png)
+![Hình 2.1.3](/Images/2.1/2.1.3.png?raw=true)
 
 
 > Máy tính **không giống** con người nên chúng không thể tự trả lời câu hỏi của chúng ta được. Vì vậy chúng ta phải đặt ra một điều kiện có **giới hạn** trường hợp. Như vậy máy tính mới có thể xử lý thông tin được.
 > 
 > Việc đặt ra một điều kiện **Làm như thế nào để học giỏi lập trình?** với máy tính thì máy tính sẽ không thể nào mà trả lời giúp bạn được phải không?
 
-![Hình 2.1.4](/Images/2.1/2.1.4.png)
+![Hình 2.1.4](/Images/2.1/2.1.4.png?raw=true)
 
 Như trong sơ đồ trên. Điều kiện **Thứ 5?**(Hôm này có phải là thứ 5?) chỉ có hai phương án trả lời cho câu hỏi đó là **ĐÚNG là thứ 5** hoặc **KHÔNG là thứ 5**.
 
@@ -101,7 +101,7 @@ Cùng liên kết với kiến thức về kiểu Boolean mình vừa giới thi
 
 Như vậy, cùng nhìn lại sơ đồ khối một lần nữa dựa trên sự biểu diễn của khối điều khiển và kiểu dữ liệu Boolean
 
-![Hình 2.1.5](/Images/2.1/2.1.5.png)
+![Hình 2.1.5](/Images/2.1/2.1.5.png?raw=true)
 
 ----------
 
