@@ -25,7 +25,7 @@ Ví dụ :
 
 * Chúng ta sẽ cùng thử làm một ví dụ sau 
 
-![2-1-1](./2-1-1.png)
+![2-1-1](/2-1-1.png)
 
 **Các bạn thử gõ rồi run thử xem màn hình in ra như thế nào ?**
 
