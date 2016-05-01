@@ -1,4 +1,6 @@
-# Cấu trúc rẽ nhánh (tiếp)  
+---
+title : Cấu trúc rẽ nhánh (tiếp)
+---
 
 Quay trở lại với câu hỏi của bài trước.
 
