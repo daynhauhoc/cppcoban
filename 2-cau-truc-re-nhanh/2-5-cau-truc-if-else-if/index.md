@@ -1,6 +1,9 @@
-#Cách dùng cấu trúc if khác (if...else if ..., cấu trúc if lồng nhau)
+---
+title : Cấu trúc if khác (if...else if ..., cấu trúc if lồng nhau)
+---
 
 >Chúng ta sẽ cùng sử dụng kiến thức của bài if else và toán tử logic để cùng tìm hiểu bài này.
+
 >Hi vọng các bạn nắm chắc kiến thức bài trước. Để không khỏi bỡ ngỡ tại bài này.
 
 Ví dụ: Nhập vào một số nguyên. Kiểm tra xem số đó có là số dương hay không ? Nếu có thì in ra màn hình thông báo là số dương. Nếu không thì in ra màn hình là số âm.
