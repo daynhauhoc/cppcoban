@@ -2,11 +2,8 @@
 title: Cấu trúc rẽ nhánh (Conditional statement)
 ---
 
-
 Trước khi nói về cấu trúc rẽ nhánh chúng ta cùng tìm hiểu một chút về kiểu dữ liệu **Boolean** trong ngôn ngữ C++.
-
-* **Kiểu dữ liệu Boolean** chỉ nhận hai giá trị : **true**(tương ứng với **1**) và **false**(tương ứng với **0**)
-
+* **Kiểu dữ liệu Boolean** chỉ nhận hai giá trị : **true**(tương ứng với **1**) và **false**(tương ứng với **0**).
 * **Khai báo** kiểu dữ liệu **Boolean** chúng ta chỉ việc sử dụng từ khóa `bool`. Điều này tương tự như với các từ khóa khác `int`,`float`,`double` ...
 
 Ví dụ  :
@@ -22,10 +19,9 @@ Ví dụ :
     bool bl1 = !true; // Lúc này biến bl1 không nhận giá trị true mà nhận giá trị ngược lại của true. Tức là nhận giá trị false
     bool bl2(!false); // Điều tương tự xảy ra với biến bl2. Lúc này bl2 có giá trị true
 
-
 * Chúng ta sẽ cùng thử làm một ví dụ sau 
 
-![2-1-1](/2-1-1.png)
+![2-1-1](./2-1-1.png)
 
 **Các bạn thử gõ rồi run thử xem màn hình in ra như thế nào ?**
 
@@ -47,7 +43,7 @@ Chính vì lý do đó khi ta dùng `cout` để in ra màn hình thì nó sẽ 
 Tất nhiên là được. Khi ra sử dụng `boolalpha` trong thư viện `std`.
 
  
-![2.1.2](./2.1.2.png?raw=true)
+![2.1.2](./2.1.2.png)
 
 **Kết quả :**
 
@@ -70,14 +66,14 @@ Trước hết, cùng thử xem một ví dụ :
 
 Chúng ta cùng xem sơ đồ khối sau :
 
-![2.1.3](./2.1.3.png?raw=true)
+![2.1.3](./2.1.3.png)
 
 
 > Máy tính **không giống** con người nên chúng không thể tự trả lời câu hỏi của chúng ta được. Vì vậy chúng ta phải đặt ra một điều kiện có **giới hạn** trường hợp. Như vậy máy tính mới có thể xử lý thông tin được.
 > 
 > Việc đặt ra một điều kiện **Làm như thế nào để học giỏi lập trình?** với máy tính thì máy tính sẽ không thể nào mà trả lời giúp bạn được phải không?
 
-![2.1.4](./2.1.4.png?raw=true)
+![2.1.4](./2.1.4.png)
 
 Như trong sơ đồ trên. Điều kiện **Thứ 5?**(Hôm này có phải là thứ 5?) chỉ có hai phương án trả lời cho câu hỏi đó là **ĐÚNG là thứ 5** hoặc **KHÔNG là thứ 5**.
 
@@ -100,7 +96,7 @@ Cùng liên kết với kiến thức về kiểu Boolean mình vừa giới thi
 
 Như vậy, cùng nhìn lại sơ đồ khối một lần nữa dựa trên sự biểu diễn của khối điều khiển và kiểu dữ liệu Boolean
 
-![2.1.5](./2.1.5.png?raw=true)
+![2.1.5](./2.1.5.png)
 
 ----------
 
