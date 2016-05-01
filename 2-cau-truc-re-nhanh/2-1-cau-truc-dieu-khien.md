@@ -1,7 +1,8 @@
-###Rất vui được gặp lại các bạn trong khóa học c++ hướng thực hành.
 
+---
+title : Cấu trúc rẽ nhánh (Conditional statement)
+---
 
-#Cấu trúc rẽ nhánh (Conditional statement)
 
 Trước khi nói về cấu trúc rẽ nhánh chúng ta cùng tìm hiểu một chút về kiểu dữ liệu **Boolean** trong ngôn ngữ C++.
 
