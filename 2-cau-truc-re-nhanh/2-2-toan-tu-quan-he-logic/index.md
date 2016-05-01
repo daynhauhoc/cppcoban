@@ -1,5 +1,6 @@
-#Toán Tử Quan Hệ - Logic
-
+---
+title : Toán Tử Quan Hệ - Logic
+---
 Trước khi tiếp tục với **Cấu Trúc Rẽ Nhánh** chúng ta sẽ cùng làm quen với một khái niệm toán tử mới đó là 
 **Toán tử quan hệ - Toán tử logic**.
 
