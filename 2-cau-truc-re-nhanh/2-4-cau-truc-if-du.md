@@ -23,7 +23,7 @@ Nếu b không phải là true thì sao.
      cout << b << endl;
 	}	
 
-![Hình 2.3.1](/Images/2.3/2.3.1.png)
+![Hình 2.3.1](/Images/2.3/2.3.1.png?raw=true)
 
 Nếu điều kiện gì đó đúng thì làm việc gì đó. Còn không thì sao ?
 
