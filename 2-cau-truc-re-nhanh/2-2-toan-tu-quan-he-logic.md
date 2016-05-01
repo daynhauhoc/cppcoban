@@ -13,7 +13,7 @@ Cùng tìm hiểu về các toán tử quan hệ qua các ví dụ như sau :
 
  Anh A Tuổi = 15 , Chị B Tuổi = 20;
 
-![Hình 2.2.1](/Images/2.2/2.2.1.png)
+![Hình 2.2.1](/Images/2.2/2.2.1.png?raw=true)
 
 >Các bạn có thể hình dung đơn giản về **Toán tử quan hệ** là vậy. Sẽ được nói kỹ hơn ở phần cấu trúc rẽ nhánh.
 
@@ -35,7 +35,7 @@ Cùng thử tìm hiểu về toán tử logic qua ví dụ như sau.
 
 Ta xét bảng sau : 
 
-![Hình 2.2.2](/Images/2.2/2.2.2.png)
+![Hình 2.2.2](/Images/2.2/2.2.2.png?raw=true)
 
 
 ----------
