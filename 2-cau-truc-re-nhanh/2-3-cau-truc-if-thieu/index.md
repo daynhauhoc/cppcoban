@@ -1,4 +1,6 @@
-#Cấu trúc rẽ nhánh(Conditional statement)
+---
+title : Cấu trúc rẽ nhánh(Conditional statement)
+---
 
 Chào mừng các bạn quay lại với khóa học hướng thực hành ngôn ngữ C++
 
