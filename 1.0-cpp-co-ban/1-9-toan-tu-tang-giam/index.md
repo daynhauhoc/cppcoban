@@ -1,7 +1,7 @@
 Chào các bạn! Tiếp tục với khóa học lập trình C++ trực tuyến, trong bài học hôm nay, chúng ta tìm hiểu thêm 2 toán tử rất quan trọng thường xuyên được sử dụng trong ngôn ngữ lập trình C++.
 
 ##
-###Toán tử tăng (increment operator)
+### Toán tử tăng (increment operator)
 
 Toán tử tăng (kí hiệu: **++**) có thể đứng trước hoặc sau một biến (variable). Ví dụ: 
 
@@ -36,7 +36,7 @@ Mình trình bày lại cách hoạt động của đoạn code trên thêm 1 l�
 ![](2.png)
 
 ##
-###Toán tử giảm
+### Toán tử giảm
 
 Toán tử giảm (kí hiệu: **--**) có thể làm tiền tố (đứng trước) hoặc hậu tố (đứng sau) một biến (variable). Ví dụ:
 
@@ -61,12 +61,12 @@ Ví dụ:
 	int y = 5--; //Giá trị của biến x bây giờ là 4, giá trị 5 được gán cho biến y
 
 ##
-###Tổng kết
+### Tổng kết
 
 Toán tử tăng, giảm là những toán tử được sử dụng khá thường xuyên trong thực tế. Các bạn cần nắm rõ bài học hôm nay trước khi đi tiếp những bài học tiếp theo.
 
 ##
-###Bài tập cơ bản
+### Bài tập cơ bản
 
 Các bạn nhìn vào đoạn code ví dụ bên dưới, không chạy thử chương trình trên máy tính mà hãy đoán kết quả của biểu thức.
 
