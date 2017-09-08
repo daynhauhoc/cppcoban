@@ -2,7 +2,7 @@
 title : Cấu trúc rẽ nhánh (Conditional statement)
 ---
 
-###Trước khi nói về cấu trúc rẽ nhánh chúng ta cùng tìm hiểu một chút về kiểu dữ liệu **Boolean** trong ngôn ngữ C++.
+### Trước khi nói về cấu trúc rẽ nhánh chúng ta cùng tìm hiểu một chút về kiểu dữ liệu **Boolean** trong ngôn ngữ C++. ###
 
 * **Kiểu dữ liệu Boolean** chỉ nhận hai giá trị : **true**(tương ứng với **1**) và **false**(tương ứng với **0**)
 
@@ -57,7 +57,7 @@ Tất nhiên là được. Khi ra sử dụng `boolalpha` trong thư viện `std
 
 ----------
 
-###Đó là kiểu dữ kiệu Boolean. 
+### Đó là kiểu dữ kiệu Boolean. 
 
 Còn bây giờ chúng ta sẽ vào vấn đề chính là **Cấu trúc rẽ nhánh (Conditional statement)**
 
