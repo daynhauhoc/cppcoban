@@ -1,7 +1,7 @@
 language: node_js
 sudo: false
 node_js:
-  - 5
+  - 24
 env:
   global:
     # TRAVIS_TOKEN

@@ -21,8 +21,8 @@ const headers = {
 const getAllBuilds = joinUri(apiHost, allBuilds(websiteRepoSlug))
 got(getAllBuilds, {
   headers,
-  json: true,
-  query: {
+  responseType: "json",
+  searchParams: {
     event_type: "push",
   },
 })
@@ -32,10 +32,15 @@ got(getAllBuilds, {
       process.nextTick(() => { throw new Error("Can't handle build not on the first page yet") })
     }
     const url = joinUri(apiHost, restartBuild(id))
-    return got.post(url, { headers, json: true })
+    return got.post(url, {
+      headers,
+      responseType: "json",
+      followRedirect: false,
+      retry: 0,
+    })
   })
   .then((res) => {
-    if (!res.body.result) {
+    if (res.statusCode >= 300 || !res.body.result) {
       console.log(res.body)
       process.nextTick(() => {
         throw new Error("Restart build unsucceed")

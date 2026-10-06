@@ -1,9 +1,10 @@
-import test from "ava"
-import response from "./stubs/builds.json"
-import response2 from "./stubs/builds2.json"
-import fn from "../getLatestPassedBuildId"
+const test = require("node:test")
+const assert = require("node:assert/strict")
+const response = require("./stubs/builds.json")
+const response2 = require("./stubs/builds2.json")
+const fn = require("../getLatestPassedBuildId")
 
-test("get latest passed build id", (t) => {
-  t.is(fn(response), 123679507)
-  t.is(fn(response2), 123691240)
+test("get latest passed build id", () => {
+  assert.equal(fn(response), 123679507)
+  assert.equal(fn(response2), 123691240)
 })
