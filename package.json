@@ -5,8 +5,7 @@
   "main": "index.js",
   "scripts": {
     "lint": "remark --quiet --frail .",
-    "test": "npm run lint",
-    "test:code": "ava codes/**/__tests__/*.test.js --verbose"
+    "test": "npm run lint"
   },
   "repository": {
     "type": "git",
@@ -15,14 +14,9 @@
   "private": true,
   "homepage": "https://github.com/daynhauhoc/cppcoban#readme",
   "dependencies": {
-    "got": "^6.3.0",
-    "join-uri": "^1.0.1",
     "remark": "^4.2.1",
     "remark-lint": "^3.2.0",
     "unist-util-visit": "^1.1.0"
-  },
-  "devDependencies": {
-    "ava": "^0.14.0"
   },
   "remarkConfig": {
     "commonmark": true,
